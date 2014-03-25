@@ -1,0 +1,17 @@
+# choose point
+obj=roadsign
+copyright=prissi
+name=choose_point_white
+waytype=road
+min_speed=0
+single_way=0
+free_route=1
+cost=2500
+intro_year=0
+image[0]=whitesign.0.0
+Image[1]=whitesign.0.1
+Image[2]=whitesign.0.2
+Image[3]=whitesign.0.3
+Icon=> whitesign.0.4
+Cursor=whitesign.0.5
+--------------------
