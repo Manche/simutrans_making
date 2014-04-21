@@ -1,0 +1,432 @@
+§################################################################################
+#                                                                              #
+#                Simutrans Scenario Specific Translation File                  #
+#                                Scenario: pak64                               #
+#                             Language: ru Russian                             #
+#                                Encoding: UTF-8                               #
+#                                Font : cyr.bdf                                #
+#                           Date Created: 22.10 2012                           #
+#                                                                              #
+#                                   authors:                                   #
+#                       Semichenkov Alexander - AleksRevo                      #
+#                                    note:                                     #
+#                          Timothy Khalatzky - Arhimed                         #
+#                                    note:                                     #
+#                                    - Dwachs                                  #
+#                                    note:                                     #
+#                              Frank Penz - FrankP                             #
+#                                    note:                                     #
+#                           Sava Bogdanets - Sava2004                          #
+#                                    note:                                     #
+#                                    - SkyAn                                   #
+#                                    note:                                     #
+#                          Markus Pristovsek - prissi                          #
+#                                    note:                                     #
+#                                   - sagaudi                                  #
+#                                    note:                                     #
+#                                                                              #
+################################################################################
+#____________________________________bridge_____________________________________
+#____________________________________bridge_____________________________________
+ClassicRail
+Бетонный ж/д мост
+ClassicRoad
+Бетонный мост
+SteelRail
+Ж/д мост со стальными балками
+#___________________________________building____________________________________
+#___________________________________building____________________________________
+01_CITY
+Мэрия
+02_CITY
+Мэрия
+03_CITY
+Мэрия
+04_CITY
+Городская статистика
+1930AirDepot
+Деревянный Ангар
+A1_ALTE_KIRCHE
+Известная старая\n\nцерковь.   Это\nфантастическое  строение\nстоит увидеть каждому.\n
+A2_SCHLOSS1
+Замок сумасшедшего\n\nкороля.   Действительно\nинтересное зрелище!\n
+A3_BURG1
+Заброшенные руины\n\nрассказывают о  лучших\nвременах.  Увлекательное\nприключение.\n
+A4_SCHLOSS2
+Старый замок  всегда был\n\nстоящим  зрелищем.\n
+A5_STONEHENGE
+Древнее кольцо камней.\n\nОчень загадочное\nстроение!\n
+A6_DOME
+Прекрасный старый собор\n\nпривлекательнейшее\nздание.\n
+Avila_Big_StationBlg
+Большое пассажирское здание
+Avila_Small_StationBlg
+Маленькое пассажирское здание
+Avila_Warehouse_StationBlg
+Станционный склад
+Bulk_StationBlg
+Станция сыпучих грузов
+BusStop
+остановка
+Car_StationBlg
+Здание автостоянки
+CarDepot
+Гараж
+CarStop
+Погрузочная площадка
+Control_StationBlg
+Станционная контора
+DenkFlor
+Этот монумент посвящён\nFlor'у 'WF Ultd.' Wauters'у\nизвестному инжинеру\nсоздавшему столько\nвеликолепных авто- и ж/д\nтранспортных средств. Он\nтакже широко известен\nразработкой множества\nпрекрасно работающих\nпредприятий.\n
+DenkHajo
+Этот монумент посвящён\nHansjЎrg'у Mathaner'у в\nтечение семи лет\nработающиему над\nсозданием этой игры.\nDemigoods take longer for\nsuch tasks.\n
+DenkMHz
+Этот монумент посвящён\nGeorg'у Heiduk'у the\nmaster of rendered\nbuildings. It stands for his\nsharp eye for details.\n
+DenkOwen
+Это место посвящено\nOwen'у Rudge'у\nизвестному финансовому\nэксперту и звукотехнику.\n
+DenkSeth
+Это место посвящено \nSeth C. Triggs известному\nархитектору,\nспроектировавшему\nстолько прекрасных\nгородских зданий. Он\nтакже хорошо известен\nнаучными работами по\nулучшению систем трафика.\n
+DenkTomas
+Этот монумент посвящён\nTomas'у Kubes'у\nпомогшему улучшить\nSimutrans в многих\nи\многих направлениях\nсоветами и напряжённой\nработой.\n
+DenkTrikky
+Этот монумент посвящён\n'Trikky' - Rick'у McGreal\nизвестному архитектору\nспроектировавшему\nстолько впечатляющих\nзданий.\n
+DenkVM
+Этот монумент посвящён\nManfred'у 'VT Vienna'\nTomaschitz'у  известному\nинжинеру разработавшему\nпревосходный ж/д\nтранспорт.\n
+DenkVolker
+Эта Ступа была построена\nVolker'ом Meyer'ом,\nулучшившим Simutrans в\nсамых разных областях.\n
+STADIUM2
+Большой стадион   -\nместо для большого \nколичества волнующих \nспортивных событий!   Он\nвмещает 25 000.\n
+TrainStop
+Станция
+Windmill
+Ветряная мельница\n\n
+#____________________________________factory____________________________________
+#____________________________________factory____________________________________
+2Raffinerie
+Перерабатывающий завод (Бензин)
+Autohaus
+Автомагазин
+Autohersteller
+Автозавод
+bakery
+Пекарня
+brewery
+Пивоваренный завод
+Buchgrosshandel
+Книжный оптовик
+cannery
+Консервная фабрика
+Cementmill
+Цементный завод
+CHEMIST
+Химик
+Concretefactory
+Бетонный завод
+cow_farm
+Животноводческая ферма
+dairy
+Маслобойня
+Druckerei
+Типография
+Erzbergwerk
+Железодобывающая шахта
+fish_pond
+Рыбоводческое хозяйство
+fish_swarm
+Fish swarm
+food_processing_plant
+Пищевой комбинат
+grain_farm
+Зерноферма
+grain_mill
+Мельница
+Kohlegrube
+Угольная шахта
+Kohlekraftwerk
+Угольная электростанция
+Materialswholesale
+Оптовая база материалов
+Moebelfabrik
+Мебельная фабрика
+Moebelhaus
+Мебельный магазин
+Nutzwald
+Высадка леса
+Oelbohrinsel
+Нефтяная вышка
+Oelfeld
+Нефтяной промысел
+Papierfabrik
+Бумажный завод
+Pharmaceutics
+Фармацевтика
+Raffinerie
+Перерабатывающий завод (Пластик)
+Saegewerk
+Лесопилка
+Sandquarry
+Песчаный карьер
+Stahlwerk
+Железный карьер
+Stonequarry
+Каменный карьер
+supermarket
+Супермаркет
+TANKE
+Автозаправочная станция
+Windkraftwerk
+Ветряная электростанция
+#_____________________________________good______________________________________
+#_____________________________________good______________________________________
+Autos
+Автомобили
+beer
+Пиво
+Bretter
+Доски
+Buecher
+Книги
+canned_food
+Консервы
+Cement
+Цемент
+Chemicals
+Химикаты
+Concrete
+Бетон
+Eisenerz
+Железная руда
+fish
+Рыба
+flour
+Мука
+food
+Пища
+Gasoline
+Бензин
+grain
+зерно
+Holz
+Древесина
+Kohle
+Уголь
+meat
+Мясо
+Medicine
+Медикаменты
+milk
+Молоко
+Moebel
+Мебель
+Oel
+Нефть
+Papier
+Бумага
+Passagiere
+Пассажиров
+Plastik
+Пластик
+Post
+Почта
+PrintersInk
+Чернила
+Sand
+Песок
+Stahl
+Сталь
+Stone
+Камень
+#_________________________________program_text__________________________________
+#_________________________________program_text__________________________________
+CATEGORY_01
+штучные товары
+CATEGORY_02
+Сыпучие грузы
+CATEGORY_03
+нефть/бензин
+CATEGORY_04
+Охлажденные товары
+CATEGORY_05
+жидкая еда
+CATEGORY_06
+длинномерные товары
+#___________________________________roadsign____________________________________
+#___________________________________roadsign____________________________________
+choose_point
+Указатель
+Minimum80
+Минимальная скорость 80
+NoEntry
+Въезд запрещён
+traffic_light
+Светофор
+#_____________________________________tree______________________________________
+#_____________________________________tree______________________________________
+Latschenkiefer
+Горная сосна\n
+Tree6
+Пихта\n
+#____________________________________tunnel_____________________________________
+#____________________________________tunnel_____________________________________
+RailTunnel
+Железнодорожный тунель
+RoadTunnel
+Туннель
+#____________________________________vehicle____________________________________
+#____________________________________vehicle____________________________________
+0Ben103
+Bennhardt BR103
+1Ben140
+Bennhardt BR140
+1Dampflokomotive
+H-Trans 0-4-0T
+1Diesellokomotive
+H-Trans Br212
+1Ellok
+H-Trans E1
+1TPEllok
+TPI F7A
+2Ben155
+Abro Br250
+2Diesellokomotive
+H-Trans Br218
+2Ellok
+H-Trans Tigress I
+3Ben185
+Abro Br185
+3Diesellokomotive
+H-Trans Br365
+Autotransportanhaenger
+Прицеп автотранспортёра H-Trans
+Autotransporter
+Автротранспортёр H-Trans
+Autotransportwagen
+грузовой вагон TPI Lopomo (а/м)
+Bretteranhaenger
+Прицеп WF Ultd. (доски)
+Brettertransporter
+Грузовик WF Ultd. (доски)
+Bretterwagen
+Грузовой вагон VT Vienna (доски)
+Buchanhaenger
+Прицеп Serj/H-Trans (книги)
+Buchtransporter
+Товарный фургон Serj/H-Trans
+Buchwagen
+Грузовой вагон VT Vienna
+Bus
+Автобус H-Trans
+Erzanhaenger
+Прицеп H-Trans
+Erztransporter
+H-Trans Truck MK2
+Erzwagen
+Грузовой вагон H-Trans
+FastFerry
+Пассадирский паром O.Bang (hovercraft)
+H-Trans-Tiger-Car
+Автобус H-Trans Tigress
+H-Trans-Tiger-Mail-Car
+Почтовая машина H-Trans Tigress
+Holzanhaenger
+Прицеп JET (древесина)
+Holztransporter
+Грузовик H-Trans (древесина)
+Holzwagen
+грузовой вагон H-Trans (древесина)
+Horsebookscariage
+Лошадиная повозка для книг
+Horsepapercariage
+Лошадиная повозка для бумаги
+Horsepassengerscariage
+Карета
+Horses
+Лошади
+Horsewoodcariage
+Лошадиная повозка для дерева
+HVPosttransporter
+Почтовый фургон DIBU/H-Trans
+Kohleanhaenger
+Прицеп H-Trans MK2 (уголь)
+Kohletransporter
+Грузовик H-Trans (уголь)
+Kohlewagen
+Грузовой вагон H-Trans MK2
+Kunststofanhaenger
+Прицеп H-Trans (пластик)
+Kunststofftransporter
+Грузовик H-Trans (пластик)
+Moebelschiff
+Корабль TPI/JET (товары)
+Moebelwagen
+лёгкий грузовой вагон VT Vienna
+Oelanhaenger
+Прицеп-нефтецистерна H-Trans
+Oelwagen
+Нефтяная цистерна VT Vienna
+Papieranhaenger
+Прицеп Trikky (бумага)
+Papiertransporter
+Грузовик Trikky (бумага)
+Papierwagen
+грузовой вагон VT Vienna (бумага)
+Passagierwagen
+Пассажирский вагон H-Trans
+Postschiff
+Почтовый корабль
+Posttransporter
+Почтовый фургон H-Trans
+Postwagen
+Почтовый/багажный вагон H-Trans
+Sandanhaenger
+Прицеп WF Ultd. (песок)
+Sandtransporter
+Грузовик WF Ultd. (песок)
+SlowFerry
+Пассажирский паром H-Trans
+Stahlanhaenger
+Прицеп H-Trans (сталь)
+Stahltransporter
+Грузовик H-Trans (сталь)
+Stahlwagen
+грузовой вагон VT Vienna Steel car (сталь)
+Staubkesselwagen
+грузовой вагон VT Vienna (пластик)
+Stoneanhaenger
+Прицеп WF Ultd. (камни)
+Stonetransporter
+грузовик WF Ultd. MK2 (камни)
+Tanklastzug
+Нефтецистерна H-Trans
+TPBeiwagen
+Пассажирский вагон TPI VT98
+TPPassagierwagen
+Пассажирский вагон TPI
+TPSchienenbus
+TPI VT98 (дизель)
+#______________________________________way______________________________________
+#______________________________________way______________________________________
+asphalt_road
+Асфальтированная дорога
+city_road
+Городская дорога
+cobblestone_road
+Булыжная мостовая
+concrete_sleeper_track
+Рельсы с бетонными шпалами
+dirt_road
+Грунтовка
+gavel_road
+Gavel дорога
+mip_cobblestone_road
+MIP булыжная мостовая
+Powerline
+ВЛЭП
+Rillenschienen
+Трамвайные пути
+runway_modern
+Современная полоса
+steel_sleeper_track
+рельсы со стальными шпалами
+wooden_sleeper_track
+Рельсы с деревянными шпалами

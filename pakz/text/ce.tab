@@ -1,0 +1,958 @@
+################################################################################
+#                                                                              #
+#                Simutrans Scenario Specific Translation File                  #
+#                                Scenario: pak64                               #
+#                            Language: ce C-English                            #
+#                                Encoding: ASCII                               #
+#                            Font : Prop-Latin1.bdf                            #
+#                           Date Created: 22.10 2012                           #
+#                                                                              #
+#                                   authors:                                   #
+#                                    - Dwachs                                  #
+#                                    note:                                     #
+#                              Frank Penz - FrankP                             #
+#                                    note:                                     #
+#                            Carl Baker - carlbaker                            #
+#                                    note:                                     #
+#                                   - neroden                                  #
+#                               note: Programmer                               #
+#                          Markus Pristovsek - prissi                          #
+#                                    note:                                     #
+#                           Lincoln Sayger - skreyola                          #
+#                                    note:                                     #
+#                                     - test                                   #
+#                                    note:                                     #
+#                                                                              #
+################################################################################
+#____________________________________bridge_____________________________________
+#____________________________________bridge_____________________________________
+ClassicRail
+Concrete Railroad Bridge
+ClassicRoad
+Concrete Road Bridge
+koka_Bridge_single
+Elevated Railroad Track
+MaglevBridge
+Maglev Bridge
+mlm_concrete_bridge
+Concrete Monorail Bridge
+ModernRoad
+Modern Road Bridge
+MonorailRamp
+Ramped Monorail Track
+Schiffhebewerk
+Ship Lifting Device
+SteelRail
+Steel Girder Railroad Bridge
+ViaductRail
+Brick and Stone Viaduct Railroad Bridge
+WoodenRoad
+Wooden Road Bridge
+#___________________________________building____________________________________
+#___________________________________building____________________________________
+00_01_CITY
+Town Hall
+01_CITY
+Town Hall
+02_CITY
+City Hall
+03_CITY
+City Hall
+03_CITY_A
+City Hall
+03_CITY_B
+City Hall
+03_CITY_C
+City Hall
+04_CITY
+City Hall
+04_CITY_A
+City Hall
+04_CITY_B
+City Hall
+04_CITY_C
+City Hall
+1930AirDepot
+1930s-style Airplane Hangar
+1headquarter
+Your corporate Headquaters!
+2headquarter
+Your corporate Headquaters!
+3headquarter
+Your corporate Headquaters!
+A1_ALTE_KIRCHE
+Famous Church.  A famous\nold church with marvellous\npaintings. Everybody\nshould see this fantastic\nbuilding.\n
+A2_SCHLOSS1
+Neuschwanstein.  The\ncastle of the crazy king.\nThis is really worth seeing!\n
+A3_BURG1
+Some Ruins.  Telling of\nbetter times, they're\nalways worth a journey.\n
+A4_SCHLOSS2
+Old Castle.  Always worth\nseeing.\n
+A5_STONEHENGE
+Stonehenge.  An ancient\nring of stones. Feel the\nmystery walking between\nthe monoliths.\n
+A6_DOME
+Old Cathedral.  The very\nheart of this city for nearly\none thousand years.\n
+AirDepot
+Airplane Hangar
+AirportShed1930
+1930s-style Airport Shed
+AirStop
+Jetway
+AirTerminal477
+1970s-style Terminal Building
+Avila_Big_StationBlg
+Large Station Building
+Avila_Small_StationBlg
+Small Station Building
+Avila_Warehouse_StationBlg
+Warehouse
+BigPostOffice
+Large Post Office
+BigTerminal477
+1970s-style Large Terminal Building
+Bulk_StationBlg
+Coal Station
+BusStop
+Bus Stop\n
+Car_StationBlg
+Car Park
+CarDepot
+Garage for road vehicles.
+CarStop
+Truck Loading Bay
+ChannelStop
+Wharf
+COM_00_01
+Small Shop\n
+COM_00_02
+Independent Gas Station\n\nAlthough this small,\nindependently-owned gas\nstation competes with\nyours, you shouldn't fear\nlosing business to it.  Most\ndrivers dislike the dirty\ncashier's desk.\n
+COM_00_03
+Skating Arena\n
+COM_00_05
+Drive-through Bank\n
+COM_00_06
+Russian Store\n\nOwned by Russian immigrants to\nSimutransland, this store\nsells many comforts from\ntheir fatherland.\n
+COM_00_08
+Apartment block with some\nshops.\n
+COM_00_10
+Medium Office Block\n
+COM_00_11
+Local Market\n\nThis store sells good fruits\nand vegetables, although\nthe bread sometimes gets\nstale.  A better bet is to\nwalk down the street a bit,\nto the Joe's Bakery.\n
+COM_00_12
+Office Block\n
+COM_00_14
+This building looks quite\nconfusing.  It is in fact\nhome to the largest illegal\nmarijuana growing\noperation in the country. \nOr so I hear.\n
+COM_00_18
+Modern Office Block\n
+COM_00_22
+United Nations\nHeadquarters\n
+COM_01_01
+This landing site for hot air\nballoons is frequented by\npoliticians, which explains\nthe lack of gas bottles.\n
+COM_01_09
+Old Cinema\n
+COM_01_10
+This small, square building\nwas built in 1957 when the\ncity was in desparate need\nof office space.  The air\nconditioner was added\nyears later, along with the\ncoffee shop out front.\n
+COM_01_17
+Medium Office Block\n
+COM_01_18
+Latova Systems Corporate\nHeadquarters\n
+COM_01_20
+Building with Helipad\n
+COM_01_21
+Office Building with Lots of\nWindows\n
+COM_01_22
+Office Building\n\nThis office building was built\non top of another office\nbuilding.  Due to the\nrigorous schedule, the\nconstruction team didn't\nhave time to remove the old\nbuilding, and so they just\nbuilt this new one on top.\n
+COM_02_13
+Seafood Restaurant\n
+COM_02_16
+Airline Headquarters\n
+COM_02_19
+Kancel??e\n
+COM_03_15
+"Six Provinces" Hotel\n
+COM_04_15
+This office building has\nbeen retrofitted many\ntimes, as you can see by\nthe sattelite dish on the\ntop.  You will also notice a\nglass portion of the roof,\nwhich covers the swimming\npool three floors beneath. \nThe swimming pool has a\nslide, which is intended to\ninspire the computer\nprogrammers within, but\nunfortunately their mood is\noften wrecked when people\ndecide to take off their pants\nand sit on the glass roof.\n
+COM_10_01
+A Beautiful City Park.\n
+COM_10_02
+Small Field\n
+COM_10_05
+Barnyard\n
+COM_10_07
+Two Houses with a Nice\nPark\n
+COM_10_10
+Tall A-Frame House\n
+COM_10_11
+Townhouse Block\n
+Control_StationBlg
+Signal Control Tower
+DenkFlor
+Memorial:  This monument is\ndedicated to Flor 'WF Ultd.'\nWauters, the famous\nengineer who created so\nmany great road and rail\nvehicles. He is also\nwell-known for designing\nmany well-working factories.\n
+DenkHajo
+Memorial:  This monument is\ndedicated to Hansj?rg\nMalthaner who created this\ngame in seven years.\nDemigods take longer for\nsuch tasks.\n
+DenkMHz
+Memorial:  This monument is\ndedicated to Georg Heiduk,\nthe master of rendered\nbuildings. It stands for his\nsharp eye for details.\n
+DenkOwen
+Memorial:  This place is\ndedicated to Owen Rudge\nthe famous finance expert\nand sound technician.\n
+DenkSeth
+Memorial:  This place is\ndedicated to Seth C. Triggs,\nthe famous architect who\ndesigned so many beautiful\ncity buildings. He is also\nwell-known for doing many\nstudies on how to improve\ntraffic systems.\n
+DenkTomas
+Memorial:  This monument is\ndedicated to Tomas Kubes\nwho helped to improve\nSimutrans in many aspects\nwith advice and hard work.\n
+DenkTrikky
+Memorial:  This monument is\ndedicated to 'Trikky' Rick\nMcGreal, the famous\narchitect who designed\nmany impressive buildings.\n
+DenkVM
+Memorial:  This monument is\ndedicated to Manfred 'VT\nVienna' Tomaschitz, the\nfamous engineer who\ndesigned many superior rail\nvehicles.\n
+DenkVolker
+Memorial:  This Stupa was\nbuilt by Volker Meyer who\nimproved Simutrans in many\nareas.\n
+Eingang
+Promenade Entrance
+Feste
+Feste Haus\n\nThis building has been the\nplace of many social\ngatherings over the\ncenturies.  The grass is\nbrown because of what the\ndrunk guests do when the\nparty is over.\n
+Fluid_StationBlg
+Oil Storage Tank
+FreightTrainStop
+Freight Station
+Gas_StationBlg
+Gas Storage Tank
+GCG1TrainStop
+Large Station Hall (Left)
+GCG2TrainStop
+Large Station Hall (Right)
+Goods_StationBlg
+Large Warehouse
+Gymnasium
+High School\n
+IND_00_01
+Warehouse\n
+IND_00_02
+Factory Tower with Clean\nRooms\n
+IND_00_03
+Oil\Gasoline Depot\n
+IND_00_04
+Sheet-metal Fabricator\n
+IND_00_05
+Water Cistern\n
+IND_00_06
+Factory Building\n
+IND_00_09
+Building That Is Tall and\nLooks like a Cow\n
+IND_00_10
+Small Factory\n
+IND_00_12
+Old Machine Factory\n
+IND_00_14
+C-Shaped Factory\n
+IND_00_16
+Processing Plant\n
+IND_00_17
+Slaughterhouse\n
+IND_00_18
+Police Officer Factory\n
+IND_01_01
+Parking Lot\n
+IND_01_03
+Large Gasoline Storage\nTank\n
+IND_01_08
+Fertilizer Factory\n
+IND_01_09
+Fluids Depot\n
+IND_01_10
+Tools Factory\n
+LargeShipStop
+Large Dock with Crane
+leftShipStop
+Left Dock Section
+LeuchtturmShipStop
+Right Dock Section (Jetty)
+MainTerminal1930
+1930s-style Main Terminal Building
+MHzSmallStation
+Small Station Building
+ModernAirTerminal477
+Modern Terminal Building
+MonorailDepot
+Monorail Depot
+MonorailFoundation
+Foundation Column for Monorail
+MonorailGround
+Monorail Building Support
+OldTownhall
+Town Meeting Centre\n
+Patricks_Rock
+A geologic formation that\ninspires many artists.\n
+PlainAirStop
+Apron
+PostOffice
+Post Office
+PostStop
+Postbox
+PSFreightTrainStop
+Platform
+PSHall1TrainStop
+Small Station Hall with News Stand
+PSHall2TrainStop
+Small Station Hall
+rampShipStop
+Ramp for Docks
+Raven_Kirche
+Church of St.Meinrad. \nAccording to legend, the\nhermit St. Meinrad was\naccompanied by two\nravens.  When he was\nmurdered, the two ravens\nwere convicted. Today, the\nplace of his hut  is the\nEinsiedeln Monastery.\n
+RES_00_06
+A Little Fountain. Even if it\nis not as great as the one\nin Geneva, it delights\npeople walking around,\nespecially in the\nsummertime.\n
+RES_00_07
+Medium House\n
+RES_00_08
+Medium House\n
+RES_00_09
+A Small Park with a Duck\nPond\n
+RES_00_10
+The Impressive Moistboy\nMansion.\n
+RES_00_11
+Large House with a Garden\n
+RES_00_12
+Factory-style House. \nResembling a factory, this\nhouse is a secret base for\nthe local mob.\n
+RES_00_13
+Double House with a Garden\n
+RES_00_16
+Old Villa\n
+RES_00_19
+Modern Apartments\n
+RES_01_01
+Modern Pre-fabricated\nhouse with a large room for\nthe kids in the attic.\n
+RES_01_02
+A-Frame House\n
+RES_01_05
+Large Single-family  Home\nwith a Tree.  This is for\nretired musicians.\n
+RES_01_07
+Large Luxury House\n
+RES_01_08
+Medium House with a\nGarden\n
+RES_01_10
+Modern House\n\nThe rooftop patio offers a great place to enjoy the outdoors without leaving the house.
+RES_01_12
+Brick Apartment Building\n
+RES_02_16
+Luxury Apartments with a\nPenthouse.\n
+RES_10_04
+Old-style Country Home.\n
+Residenz
+Large Residence\n\nThis building is used to\nhouse students of the\nuniversity, if they cannot\nafford to live on their own.\n
+rightShipStop
+Left Dock Section (Jetty)
+RUIN_0
+Some very old ruins from\nthe age before now.\n
+SandStationMHz
+Station without Platform
+ShipDepot
+Shipyard
+ShipDepotEW
+Shipyard\n
+ShipStop
+Small Dock
+STADIUM2
+Big Stadium.  All of the\ninternational events are\nhosted here.\n
+Tennis_Court
+Tennis Court\n
+Terminal1930
+1930s-style Terminal Building
+Theatre
+Theatre\n
+Tower1930
+1930s-style Control Tower
+TowerMoistboy
+Modern Control Tower
+TrainDepot
+Rail Depot
+TrainStop
+Simple Covered Platform\n
+TrainStopMaglev
+Elevated Maglev Platform
+TrainStopMaglevIndicator
+Elevated Maglev Platform with Electronic Display
+TramDepot
+Tram Depot
+VictorianStation
+Victorian-style Station Building
+Vorplatz
+Station Promenade
+Windmill
+Historic Windmill\n
+#____________________________________citycar____________________________________
+#____________________________________citycar____________________________________
+Ambulanz
+Ambulance
+FordT
+Ford Model T
+green_car
+Green Family Sedan
+Motorrad
+TR:Motorrad
+orange_bus
+School Bus
+Pickup
+Pickup Truck
+Roadster
+Convertible
+yellow_car
+Yellow Family Sedan
+#____________________________________factory____________________________________
+#____________________________________factory____________________________________
+2Raffinerie
+Gasoline Refinery
+3Raffinerie
+Refinery
+Autohaus
+Car Dealer
+Autohersteller
+Car Factory
+Buchgrosshandel
+Book Wholesaler
+Cementmill
+Cement Mill
+ChemicalPlant
+Chemical Plant
+CHEMIST
+Apothecary
+Concretefactory
+Concrete Mix Factory
+Druckerei
+Printing Works
+Erzbergwerk
+Iron Ore Mine
+Kohlegrube
+Coal Mine
+Kohlekraftwerk
+Coal Power Station
+Materialswholesale
+Construction Goods Store
+Moebelfabrik
+Furniture Factory
+Moebelhaus
+Home Market
+Nutzwald
+Timber Plantation
+Oelbohrinsel
+Oil Rig
+Oelfeld
+Oil Field
+Oelkraftwerk
+Oil Power Plant
+Papierfabrik
+Paper Mill
+Pharmaceutics
+Drug Store
+Raffinerie
+Plastic Refinery
+Rinnenkraftwerk
+Parabolic Solar Power Plant
+Saegewerk
+Sawmill
+Sandquarry
+Sand Quarry
+scrap_yard
+Scrapyard
+Stahlwerk
+Iron Foundry
+Stonequarry
+Stone Quarry
+TANKE
+Gas Station
+Windkraftwerk
+Windmill Power Station
+#_____________________________________good______________________________________
+#_____________________________________good______________________________________
+Autos
+Cars
+Bretter
+Planks
+Buecher
+Books
+Concrete
+Cement
+Eisenerz
+Iron Ore
+Holz
+Wood
+Kohle
+Coal
+Moebel
+Furniture
+Oel
+Oil
+Papier
+Paper
+Plastik
+Plastic
+PrintersInk
+Printer ink
+Stahl
+Steel
+#__________________________________ground_obj___________________________________
+#__________________________________ground_obj___________________________________
+bushes
+Bushes
+gooses
+Geese
+#__________________________________pedestrian___________________________________
+#__________________________________pedestrian___________________________________
+Couple
+Two People Walking Together
+pedestrian_1
+Jason
+pedestrian_2
+Jessica
+pedestrian_3
+Robert
+pedestrian_4
+Alice
+pedestrian_child
+Geoffrey
+pedestrian_dog
+Samantha (with Her Dog, Sparky)
+#_________________________________program_text__________________________________
+#_________________________________program_text__________________________________
+CATEGORY_02
+bulk goods
+#___________________________________roadsign____________________________________
+#___________________________________roadsign____________________________________
+choose_point
+Automated Loading Bay Selection Sign
+ChooseSignals
+Track Reservation Signals
+Minimum80
+"Minimum Speed 80 km/h" Sign.
+NoEntry
+"Wrong Way" Sign.
+preSignals
+Two-Block Signals
+Signals
+Rail Signal
+traffic_light
+Traffic Light
+#_____________________________________tree______________________________________
+#_____________________________________tree______________________________________
+Ahorn-1
+Maple Tree
+Ahorn-2
+Maple Tree
+Ahorn-Gruppe
+Maple Trees
+Kiefer_1
+Red Pine
+Kiefer_2
+Red Pine
+Kiefer_3
+Red Pine
+Kiefer_4
+Red Pine
+Kiefer_5
+Red Pine
+Latschenkiefer
+Mountain Pine\n
+Tree4
+Bark Tree\n
+Tree5
+Fake Plastic Tree\n
+Tree6
+Fir\n
+#____________________________________tunnel_____________________________________
+#____________________________________tunnel_____________________________________
+RailTunnel
+Railroad Tunnel
+RoadTunnel
+Road Tunnel
+#____________________________________vehicle____________________________________
+#____________________________________vehicle____________________________________
+0Ben103
+Bennhardt 103
+1Ben140
+Bennhardt 140
+1Dampflokomotive
+H-Trans 0-4-0T
+1Diesellokomotive
+H-TRans Kahan 512
+1Ellok
+H-Trans E1
+1TPEllok
+Haltbar F7 (Front)
+221A
+Wottrich 221A
+221A_tender
+Wottrich 221A Tender
+2Ben155
+Abro Br250
+2Diesellokomotive
+Wottrich 650
+2Ellok
+Colin Train 6300 "Tiger" (Front)
+3Ben185
+Abro Br185
+3Diesellokomotive
+H-Trans Br365
+707
+Boeing 707
+A3-5
+Autocar Hawk
+A3-5_tender
+Autocar Hawk Tender
+A380
+Airbus A380-800
+Adler
+Autocar Eagle
+AdlerPersonenwagen
+Autocar Eagle Passenger Car
+Autotransportanhaenger
+Ikarus Model H Trailer
+Autotransporter
+Ikarus Model H (Cars)
+Autotransportwagen
+Bennhardt Automobile Car
+BB1280
+Kahan 1280
+Be5-7
+Autocar Falcon
+Book_Trike
+Kirayami Small Box Truck
+Boxcar
+MJHN Box Car
+BR01
+Kahan Locomotive
+BR38
+Kahan 38
+BR38-Tender
+Kahan 38 Tender
+BR39
+Kahan 39
+BR45
+Kahan 45
+BR85
+Kahan 86
+Bretteranhaenger
+Ikarus Model K Trailer
+Brettertransporter
+Ikarus Model K (Wood)
+Bretterwagen
+Haltbar Lumber Car
+BRV36
+Colin Train 4000
+Buchanhaenger
+Rama 14
+Buchtrailer
+Rama 23
+Buchtrailer2
+Rama 23L
+Buchtransporter
+Colin Truck 173 (Boxes)
+Buchwagen
+Haltbar Box Car
+Buessig
+Ikarus Model B
+Bus
+H-Trans Bus
+Cargosprinter-Front
+Haltbar Carosprinter (Front)
+Cargosprinter-Mittel
+Haltbar Carosprinter (Middle)
+Cargosprinter-Steuer
+Haltbar Cargosprinter (Rear)
+Cementtrailer
+Autocar Cementor
+CombinoShort(T)
+Autocar GT-4S (First Middle)
+CombinoShortA(Mc)
+Autocar GT-4S (Front)
+CombinoShortB(Mc)
+Autocar GT-4S (Rear)
+CombinoShortE(T)
+Autocar GT-4S (Last Middle)
+Comet
+de Havilland Comet
+Concept1Front
+Kirayami MonoTest (Front)
+Concept1Mail
+Kirayami MonoTest (Mail)
+Concept1Pass
+Kirayami MonoTest (Passengers)
+Concept1Rear
+Kirayami MonoTest (Rear)
+Concept2Front
+Kirayami MonoTest II (Front)
+Concept2Mail
+Kirayami MonoTest II (Mail Car)
+Concept2Pass
+Kirayami MonoTest II (Passenger Car)
+Concept2Rear
+Kirayami MonoTest II (Rear)
+Concorde
+Aerospatiale Concorde
+Cooling_Truck
+Refrigerated lorry
+DC-3
+Douglas DC-3
+E44
+Kirayami Electric Locomotive II
+Eb3-5
+Autocar Kestrel
+Ed2x2
+Autocar Saker
+EinheitsTender
+Kahan Tender
+Erzanhaenger
+Kirayami Bulk Goods Trailer
+Erztrailer
+Rama 20 (Bulk Goods)
+Erztransporter
+Kirayami Bulk Goods Truck
+Erzwagen
+Bennhardt Open Car
+F7back
+Haltbar F7 (Rear)
+FastFerry
+Ikarus FastFerry
+Flachwagen
+Rama Box Car 12
+Fokker_F27
+Fokker F-27 Friendship
+GarbageTruck
+Garbage Truck
+Gelenkbus_Ende
+Jointed Bus (rear)
+Gelenkbus_Front
+Jointed Bus
+Godm_Spitz
+Passenger Clipper
+Guppy
+Aero Spacelines 377SGT Super Guppy
+H-Trans-Pantheress
+Colin Train 6200 "Panther"
+H-Trans-Pantheress-Back
+Colin Train 6300 "Tiger" (Rear)
+H-Trans-Tiger-Car
+Colin 6000 Class Passenger Car
+H-Trans-Tiger-Mail-Car
+Colin 6000 Class Mail Car
+H-Trans-Tigress-II-Back
+Colin Train 6350 "Tiger" (Rear)
+H-Trans-Tigress-II-Front
+Colin Train 6350 "Tiger" (Front)
+Hadley-Page-V1500
+Hadley/Page Aerospace V1500
+Heavy_ore_truck
+Haltbar 1750
+Hochbordwagen
+MJHN Open Car
+Holzanhaenger
+Autocar F?ret Trailer
+Holztrailer
+Rama 22 (Wood)
+Holztransporter
+Autocar F?ret
+Holzwagen
+Autocar Lumber Car
+Horsebookscariage
+Rama 6 (Boxes)
+Horsemailcariage
+Rama 6M
+Horsepapercariage
+Rama 14 (Paper)
+Horsepassengerscariage
+Rama 6P
+Horses
+Rama Horses Plus+
+Horsewoodcariage
+Rama 17 (Wood)
+HVPosttransporter
+Autocar Advancer
+ICE_TD-back
+Bennhardt TD (back)
+ICE_TD-car
+Bennhardt TD (wagon)
+ICE_TD-front
+Bennhardt TD (front)
+IL-76
+Ilyushin IL-76 Postflieger
+JNR_C11
+Wottrich JNR-C11
+JR_9600
+Wottrich JNR-9600
+JR_9600_tender
+Wottrich JNR-9600 Tender
+Ju52
+Junkers Ju-52/3m
+JumboJet
+Boeing 747-400
+kkStB_tender
+MJHN "Dampf" Tender
+kkStB110
+MJHN "Chyuki"
+kkStB91
+MJHN "Dampf"
+Kohleanhaenger
+Kirayami Coal Trailer
+Kohletransporter
+Kirayami Coal Truck
+Kohlewagen
+Rama Open Car 24
+Kunststofanhaenger
+Kirayami Plastic Trailer
+Kunststofftransporter
+Kirayami Plastic Truck
+Lockhead_Tristar
+Lockheed L-1011 TriStar
+Lockheed10-Electra
+Lockheed L-188 Electra
+logs
+Log Barge
+Lowa
+Bennhardt T-26 (Front)
+Lowa_Anhaenger
+Bennhardt T-26 (Car)
+MailExpress
+Autocar Flier
+Moebelschiff
+Boxes Boat
+Moebelwagen
+Rama Box Car 6
+NeuOelwagen
+Rama Oil Car 22
+Oelanhaenger
+Autocar Tanker Trailer
+Oelwagen
+Haltbar Oil Car
+Oilbarge
+Oil Barge
+Oiltrailer
+Rama 21 (Oil)
+old_open_car
+Autocar Open Car
+OldOil
+Kahan Oil Car
+Papieranhaenger
+Kirayami Paper Trailer
+Papiertransporter
+Kirayami Paper Truck
+Papierwagen
+Haltbar Paper Car
+Passagierwagen
+Kahan Passenger Car
+Pferdebahn
+Rama Horses Plus+
+Pferdebahnwagen
+Rama Horse Carriage Plus+
+Postschiff
+Mail Boat
+Posttransporter
+Autocar Mailcar
+Postwagen
+Kahan Mail Car
+PrPersonenwagen
+Autocar Passenger Car II
+PrPostwagen
+Autocar Mail Car
+RenaultTH5
+Colin Truck 191
+Sandanhaenger
+Autocar Excellent Trailer
+Sandtransporter
+Autocar Excellent
+schooner
+Nova Scotia Schooner
+SD40-2-back
+Haltbar 1042 (back)
+SD40-2-front
+Haltbar 1042 (front)
+SlowFerry
+Ikarus SlowFerry
+Stahlanhaenger
+Kirayami Steel Trailer
+Stahltransporter
+Kirayami Steel Truck
+Stahlwagen
+Haltbar Steel Car
+Staubkesselwagen
+Haltbar Plastics Car
+Steamer
+Autoboat SteamFerry
+Stoneanhaenger
+Ikarus Model J Trailer
+Stonetransporter
+Ikarus Model J (Bulk Goods)
+SuperConstellation
+Lockheed L-1049 Super Constellation
+T13
+Bennhardt T-13 (Front)
+T24
+Bennhardt T-24 (Front)
+Tanklastzug
+Autocar Tanker
+Tatra-T4
+Bennhardt T-28 "Tatra" (Front)
+Tatra-T4_Wagon
+Bennhardt T-28 "Tatra" (Wagon)
+TB13
+Bennhardt T-13 (Wagon)
+TB24
+Bennhardt T-24 (Wagon)
+teaclipper
+Clipper
+TPBeiwagen
+Colin Train 5200 (Rear)
+TPPassagierwagen
+Bennhardt Passenger Car
+TPSchienenbus
+Colin Train 5200 (Front)
+Tram_GT6_Ende
+Autocar GT-6 (Rear)
+Tram_GT6_Kopf
+Autocar GT-6 (Front)
+VolvoFH12
+Ikarus Model F
+XMail
+Kirayami Fuel Cell Prototype (Mail)
+XTest
+Kirayami Fuel Cell Prototype (Passengers)
+#______________________________________way______________________________________
+#______________________________________way______________________________________
+asphalt_road
+Asphalt Road
+city_road
+Urban Road
+cobblestone_road
+Cobblestone Road
+concrete_sleeper_track
+Railroad Track (Concrete Sleepers)
+dirt_road
+Dirt Road
+elevated_monorail
+Elevated Monorail
+gavel_road
+Gravel Road
+Kanal
+Canal
+MaglevTrack
+Maglev Track
+MaglevTrackElevated
+Elevated Maglev Track
+mip_cobblestone_road
+MIP Cobblestone Road
+monorail
+Monorail Track
+Rillenschienen
+Tram Track
+runway_grass
+Grass Runway
+runway_modern
+Concrete Runway
+sand_track
+Railroad Track (Lain in Sand)
+steel_sleeper_track
+Railroad Track (Steel Sleepers)
+taxiway
+Asphalt Taxiway
+wooden_sleeper_track
+Railroad Track (Wood Sleepers)
+#__________________________________way-object___________________________________
+#__________________________________way-object___________________________________
+HighSpeedOverheadpower
+High-speed Overhead Lines
+SlowOverheadpower
+Overhead Lines

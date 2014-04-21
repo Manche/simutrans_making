@@ -1,0 +1,220 @@
+################################################################################
+#                                                                              #
+#                Simutrans Scenario Specific Translation File                  #
+#                                Scenario: pak64                               #
+#                              Language: ca Catala                             #
+#                             Encoding: ISO-8859-1                             #
+#                            Font : Prop-Latin1.bdf                            #
+#                           Date Created: 22.10 2012                           #
+#                                                                              #
+#                                   authors:                                   #
+#                                    - Dwachs                                  #
+#                                    note:                                     #
+#                              Frank Penz - FrankP                             #
+#                                    note:                                     #
+#                           Joan-Josep Bargues - Joan                          #
+#                                    note:                                     #
+#                                 - albert.yuste                               #
+#                               note: Albert Ruiz                              #
+#                          Markus Pristovsek - prissi                          #
+#                                    note:                                     #
+#                                                                              #
+################################################################################
+#____________________________________bridge_____________________________________
+#____________________________________bridge_____________________________________
+ClassicRail
+Via elevada
+ClassicRoad
+Carretera elevada
+SteelRail
+Estructura elevada
+#___________________________________building____________________________________
+#___________________________________building____________________________________
+01_CITY
+Ajuntament
+A1_ALTE_KIRCHE
+Una famosa catedral  antiga.\nTothom  hauria de veure \naquest fantàstic  edifici.\n
+A2_SCHLOSS1
+El castell  del rei boig. \n¡Visitar-lo val  la pena!\n
+A3_BURG1
+Algunes runes  que parlen de \ntemps millors.  Sempre són una\n visita interessant.\n
+A4_SCHLOSS2
+Aquest vell  castell se  mereix\nuna  visita.\n
+A5_STONEHENGE
+Un antic anell  de pedres. \n¡Molt misteriós!\n
+A6_DOME
+Aquesta preciosa  catedral\nantiga  és una gran  atracció.\n
+#____________________________________factory____________________________________
+#____________________________________factory____________________________________
+Autohaus
+Concessionari cotxes
+Autohersteller
+Fàbrica cotxes
+Buchgrosshandel
+Majorista de llibres
+Cementmill
+Fàbrica de ciment
+CHEMIST
+Farmàcia (per Seth)
+Concretefactory
+Fábrica de formigó
+Druckerei
+Impremta
+Erzbergwerk
+Mina de ferro
+Kohlegrube
+Mina de carbó
+Kohlekraftwerk
+Central tèrmica
+Moebelhaus
+Botiga de mobles
+Nutzwald
+Explotac. forestal
+Oelbohrinsel
+Plataforma petrolífera
+Oelfeld
+Pou de petroli
+Papierfabrik
+Fàbrica de paper
+Raffinerie
+Refineria
+Sandquarry
+Cantera d'arena
+Stahlwerk
+Fundició ferro
+Stonequarry
+Cantera de pedra
+TANKE
+Benzinera
+#_____________________________________good______________________________________
+#_____________________________________good______________________________________
+Autos
+Automòbils
+Bretter
+Taulons
+Cement
+Ciment
+Concrete
+Formigó
+Eisenerz
+Ferro
+Holz
+Fusta
+Kohle
+Carbó
+Moebel
+Mobles
+Oel
+Petroli
+Papier
+Paper
+Passagiere
+Passatgers
+Plastik
+Plàstics
+Post
+Correu
+Sand
+Arena
+Stahl
+Acer
+Stone
+Pedra
+#____________________________________vehicle____________________________________
+#____________________________________vehicle____________________________________
+0Ben103
+Bennhardt BR103 (elèctrica)
+1Ben140
+Bennhardt BR140
+1Dampflokomotive
+H-Trans 0-4-0T
+1Diesellokomotive
+H-Trans Br212
+1Ellok
+H-Trans E1
+1TPEllok
+TPI F7A (diesel)
+2Ben155
+Abro Br250
+2Diesellokomotive
+DB BR 218
+2Ellok
+H-Trans Tigresa I
+3Ben185
+Abro Br185
+3Diesellokomotive
+H-Trans Br365
+Autotransporter
+H-Trans transport automòbils
+Autotransportwagen
+TPI Lopomo Vagó per a automòbils
+Brettertransporter
+WF Ultd. transport tablas
+Bretterwagen
+VT Vienna Vagó per a taulons
+Buchtransporter
+Camió per a llibres Serj/H-Trans
+Buchwagen
+VT Viena Vagó per a llibres
+Bus
+Autobús H-trans
+Erzanhaenger
+Remolc ferro H-trans
+Erztransporter
+Camió per a ferro H-trans
+Erzwagen
+Vagó per a ferro
+FastFerry
+Ferry ràpid
+Holzanhaenger
+JET remolc per a fusta
+Holztransporter
+Camió per a fusta H-trans
+Holzwagen
+Vagó per a troncs de fusta
+HVPosttransporter
+Camió correu DIBU/H-Trans
+Kohletransporter
+Camió per a carbó H-trans
+Kohlewagen
+Tolva per a carbó
+Kunststofftransporter
+Camió per a plàstics H-trans
+Moebelwagen
+VT Vienna Vagó per a mobles
+Oelanhaenger
+Remolc petroli H-trans
+Oelwagen
+Vagó cisterna per a petroli
+Papiertransporter
+Trikky Camió per a paper
+Papierwagen
+VT Viena Vagó per a paper
+Passagierwagen
+H-trans Vagó per a passatgers
+Postschiff
+Vaixell per a correu
+Posttransporter
+Camió correu H-trans
+Postwagen
+Furgó correu/equipatges
+SlowFerry
+Ferry convencional H-trans
+Stahltransporter
+Camió per a acer H-trans
+Stahlwagen
+Vagó per a acer
+Staubkesselwagen
+Vagó per a plàstics
+Tanklastzug
+Camió cisterna
+TPBeiwagen
+Cotxe addicional per a TPI VT98
+TPPassagierwagen
+TPI Vagó passatgers
+TPSchienenbus
+TPI VT98 (dièsel)
+#______________________________________way______________________________________
+#______________________________________way______________________________________
+city_road
+Carrer

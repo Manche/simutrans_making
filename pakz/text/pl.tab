@@ -1,0 +1,1024 @@
+################################################################################
+#                                                                              #
+#                Simutrans Scenario Specific Translation File                  #
+#                                Scenario: pak64                               #
+#                              Language: pl Polski                             #
+#                             Encoding: ISO-8859-2                             #
+#                            Font : prop-latin2.fnt                            #
+#                           Date Created: 22.10 2012                           #
+#                                                                              #
+#                                   authors:                                   #
+#                       Bartlomiej Weclewski - BarthVader                      #
+#                                    note:                                     #
+#                                    - Dwachs                                  #
+#                                    note:                                     #
+#                              Frank Penz - FrankP                             #
+#                                    note:                                     #
+#                              Jaroslaw - Jaroslaw                             #
+#                                    note:                                     #
+#                                     - Rivo                                   #
+#                                    note:                                     #
+#                          Markus Pristovsek - prissi                          #
+#                                    note:                                     #
+#                                    - qamil                                   #
+#                                    note:                                     #
+#                                                                              #
+################################################################################
+#____________________________________bridge_____________________________________
+#____________________________________bridge_____________________________________
+ClassicRail
+Betonowy most kolejowy
+ClassicRoad
+Betonowy most drogowy
+koka_Bridge_single
+Wiadukt kolejowy
+MaglevBridge
+Most Maglev
+mlm_concrete_bridge
+Betonowy most kolei jednoszynowej
+ModernRoad
+Nowoczesny most (sprê¿ony beton)
+MonorailRamp
+Most kolei jednoszynowej
+PowerBridge
+"Most" dla linii wysokiego napiêcia
+Schiffhebewerk
+¦luza
+SteelRail
+Stalowy most kolejowy
+tb_classic_road
+Most ¿elbetonowy
+ViaductRail
+Kamienny wiadukt
+WoodenRoad
+Most drewniany
+#___________________________________building____________________________________
+#___________________________________building____________________________________
+00_01_CITY
+stylowy ratusz
+01_CITY
+Ratusz\
+02_CITY
+Ratusz
+03_CITY
+Ratusz
+03_CITY_A
+Ratusza
+03_CITY_B
+Ratusz
+03_CITY_C
+Ratusz
+04_CITY
+Ratusz
+04_CITY_A
+Ratusz
+04_CITY_B
+Ratusz
+04_CITY_C
+Ratusz
+10_WOHN
+Ko¶ció³ pw. ¶w. £ukasza\n\nMa³a, ale rozwijaj±ca siê parafia, przyci±gaj±ca nowych wiernych i turystów.
+1930AirDepot
+Hangar (1930)
+1headquarter
+Siedziba twojej korporacji.
+2headquarter
+Siedziba wielkiej korporacji\n
+3headquarter
+Siedziba miêdzynarodowej korporacji
+A1_ALTE_KIRCHE
+S³ynny stary ko¶ció³.\nWszyscy powinni zobaczyæ\nten wspania³y budynek z\nczasów króla ¦wieczka.\n
+A2_SCHLOSS1
+¦redniowieczny zamek.\n\nLegenda g³osi, ¿e ksi±¿ê, który\nkaza³ wybudowaæ ten\nbajeczny zamek, zosta³\nprzez swoich poddanych\nuznany za cz³owieka\nniespe³na rozumu i spalony na\nstosie.\n
+A3_BURG1
+Ruiny\n\nDzi¶ nikt ju¿ nie pamiêta, czy\nkiedy¶ sta³ tu zamek, czy\nko¶ció³ (z³o¶liwi mówi±, ¿e\npewnie by³a to obora), lecz\nwszyscy zakochani chêtnie\nodwiedzaj± te romantyczne\nruiny.\n
+A4_SCHLOSS2
+Zamek Ksi±¿\n\nTen wspania³y zamek ci±gle\npe³en jest jeszcze zagadek\nz zamierzch³ych czasów.\nDzi¶ na zamku\norganizowane s± przeró¿ne\nwystawy i inne imprezy,\ndlatego zawsze jest tu pe³no\nludzi.\n
+A5_STONEHENGE
+Kamienny kr±g\n\nNikt nie wie, w jakim celu\nustawiono w kr±g te wielkie\nkamienie, ale tym bardziej\nka¿dy chce je zobaczyæ na\nw³asne oczy.\n
+A6_DOME
+Katedra\n\nW ka¿dym znacz±cym\nmie¶cie znajduje siê\nkatedra. Ale nie wszêdzie\nmo¿na w niej zobaczyæ taki\ncudowny obraz, jak tu,\ndlatego w³a¶nie ta katedra\njest taka du¿a i przyci±ga tak\nwielkie rzesze pielgrzymów.\n
+AirDepot
+Hangar (1900)
+AirportShed1930
+Poczta lotnicza (1901)
+AirStop
+Rêkaw
+AirTerminal477
+Terminal (1950)
+Avila_Big_StationBlg
+Budynek stacji (du¿y)
+Avila_Small_StationBlg
+Budynek stacji (ma³y)
+Avila_Warehouse_StationBlg
+Magazyn
+BigPostOffice
+Du¿y urz±d pocztowy
+BigTerminal477
+Terminal (du¿y)
+Bulk_StationBlg
+Sk³ad materia³ów sypkich
+BusStop
+Przystanek autobusowy
+Car_StationBlg
+Parking
+CarDepot
+Zajezdnia pojazdów drogowych
+CarStop
+Stacja za³adunkowa
+ChannelStop
+Nadbrze¿e
+COM_00_02
+Niezrzeszona stacja paliw\n\nStacja paliw nie nale¿±ca do\n¿adnego koncernu (nawet\ndo twojego). Sprzedaj± tam\nchrzczon± bajurê, wiêc nie\nwarto jej niszczyæ - nie\nstanowi dla ciebie\nkonkurencji.\n
+COM_00_03
+Automyjnia - obs³uga\ntopless!\n
+COM_00_06
+Zajazd "Golonka u Zdzicha"\n
+COM_00_11
+Cukiernia pana Jêdrzeja.\nCiastka, p±czki,\njagodzianki!\n
+COM_00_14
+Salon sukien ¶lubnych. Nie\npokazuj tego miejsca\nswojej dziewczynie!\n
+COM_00_22
+Biuro handlowe Microsoft\n
+COM_01_01
+L±dowisko sportowe\n\nDzi¶ na l±dowisku odbywaj±\nsiê pokazy balonowe.\nBalony unosz± siê w górê\ndlatego, ¿e s± nape³nione\nciep³ym powietrzem, które\njest l¿ejsze od zimnego. Nie\nu¿ywasz ich do transportu\npasa¿erów, poniewa¿ s±\npowolne i lec± tam, gdzie\nwiatr je poniesie.\n
+COM_01_09
+Stare kino\n\nTo stare kino obecnie\nprze¿ywa renesans. Po\nprostu jego nowy\nw³a¶ciciel wpad³ na\npomys³, aby zamiast hitów\nkinowych puszczaæ w nim\ntylko takie dziwad³a, jak filmy\nprodukcji irañskiej lub\nmongolskiej. Od tego czasu\nkino ma swoich sta³ych\nbywalców i zaczê³o na siebie\nzarabiaæ.\n
+COM_01_10
+Siedziba partii zielonych\n\nPartia zielonych w Simutrans\nd±¿y do ochrony przyrody\npod ka¿dym wzglêdem. Poza\nprowadzeniem akcji typu\nnie jemy miêsa, nie nosimy\nnaturalnej skóry ma te¿ na\nswoim koncie osi±gniêcia,\nm.in. protesty przeciwko\nwycinaniu puszcz\ndoprowadzi³y do wynalezienia\npodk³adów betonowych\numo¿liwiaj±c zwiêkszenie\nprêdko¶ci poci±gów.\n
+COM_01_18
+Przeszklony budynek\n\nTen budynek, wbrew\npozorom, nie jest\nzbudowany ze szk³a, tylko\nz ceg³y i betonu. P³yty\nszklane s± przymocowane\ndo ¶cian, daj±c wra¿enie\nogromnego, niebieskiego\nlustra. Pierwszy taki biurowiec\nwybudowano w roku 1961.\n
+COM_01_20
+Gie³da papierów warto¶ciowych\n\nW tym budynku znajduje\nsiê gie³da papierów\nwarto¶ciowych. Mo¿na tu\nkupiæ i sprzedaæ akcje oraz\nobligacje, ale równie¿\nopcje europejskie,\namerykañskie a nawet\nazjatyckie. Dla bogatych\ninwestorów zorganizowano na\ndachu ma³e lotnisko, aby\nmogli ¿yæ jeszcze szybciej i\nnie traciæ czasu na przejazd\nsamochodem przez centrum\nmiasta.\n
+COM_01_22
+Siedziba linii lotniczych\n\nW tym budynku planuje siê\nnowe trasy samolotów\npasa¿erskich i sprawdza\nteoretycznie ich\nrentowno¶æ. Tutaj tak¿e\npodejmowane s± decyzje o\nzakupie nowych maszyn,\nbudowie i rozbudowie lotnisk.\nNa ni¿szych piêtrach budynku\nrezyduj± pracownicy\nmarketingu, którzy wymy¶laj±\ncoraz to nowe akcje\npromocyjne, aby sprzedaæ\nbilety dro¿ej ni¿ normalnie tak,\naby klient by³ przekonany, ¿e\nkupuje je taniej.\n
+COM_02_02
+Darmowe miejsca parkingowe\n\nMo¿esz tu zostawiæ swój\nsamochód, je¶li chcesz.\nNikt jednak nie gwarantuje,\n¿e po powrocie zastaniesz\nswoje radio tam, gdzie je\nzostawi³e¶.\n
+COM_02_13
+Biblioteka miejska\n\nW tym budynku mo¿esz\nwypo¿yczyæ ksi±¿ki i\nczasopisma, ale wiêkszo¶æ\nzbiorów biblioteki stanowi±\np³yty z nagraniami do nauki\njêzyków obcych. Mieszkañcy\nmiasta bardzo du¿o podró¿uj±,\nrównie¿ za granicê, wiêc\nbardzo chêtnie je\nwypo¿yczaj±.\n
+COM_02_17
+Siedziba korporacji\n\nW tym budynku ma\nsiedzibê korporacja\nsprzedaj±ca w\nplastikowych butelkach\nwodê pitn±. Wbrew\npowszechnym opiniom nie jest\nto kranówa, woda ta\notrzymywana jest z lodu,\nktóry zalega w okolicy\nbiegunów od tysiêcy, a mo¿e\nnawet milionów lat.\n
+COM_02_19
+Wie¿owiec\n\nW tym wie¿owcu znajduje\nsiê siedziba korporacji\nzajmuj±cej siê produkcj±\noraz sprzeda¿± zapa³ek.\nZastanawia Ciê, jakim\nsposobem na ma³ych tanich\nzapa³kach mo¿na a¿ tak du¿o\nzarobiæ? Nie dziw siê, nikomu\nnie robi ró¿nicy, czy zapa³ki\nkosztuj± 10, czy 11 groszy, a\nprzecie¿ ró¿nica w cenie\nwynosi 10 procent.\n
+COM_03_15
+Siedziba korporacji ¶redniej\nwielko¶ci\n
+COM_04_15
+Rozg³o¶nia radiowa\n\nW tym budynku ma siedzibê\nlokalna rozg³o¶nia radiowa.\nProgram przez ni±\nprezentowany mo¿e nie\njest najwy¿szych lotów,\nale za to znajduj± na antenie\nmiejsce na sprawy lokalnej\nspo³eczno¶ci. Warto ich\ns³uchaæ szczególnie w dniu\nurodzin i imienin, aby nie\nprzegapiæ ¿yczeñ na antenie\nod znajomych.\n
+COM_10_01
+Staw\n\nTen ma³y staw w centrum\nmiasta jest chêtnie\nwybieranym miejscem\nodpoczynku mieszkañców.\nW lecie uspokaja ich widok\np³ywaj±cych w nim ryb, a w\nzimie maj± gdzie poje¼dziæ na\n³y¿wach.\n
+COM_10_02
+Darmowe miejsca parkingowe\n\nTutaj mo¿esz zostawiæ swój\nsamochód, je¶li chcesz (i\nje¶li jest jeszcze wolne\nmiejsce). Nikt jednak nie\ngwarantuje, ¿e zastaniesz\ngo, gdy wrócisz.\n
+COM_10_05
+Prywatna hodowla kóz\n\nPewien zapalony ekolog hoduje\ntu stado kóz angorskich\njedynie dla swojej w³asnej\nprzyjemno¶ci. Wprawdzie\nsprzedaje mleko kilku\ns±siadom, ale robi to tylko\ndlatego, ¿e sam nie jest w\nstanie go zagospodarowaæ.\n
+COM_10_07
+Prywatne zak³ady w³ókiennicze\n\nW tym budynku znajduj±\nsiê warsztaty tkackie. Nie\njest to jednak produkcja\nmasowa, stawia siê raczej\nna oryginalno¶æ powsta³ych\ntu tkanin, niektórzy uwa¿aj±\nje nawet za swoiste dzie³a\nsztuki.\n
+COM_10_08
+Spichlerz\n\nW tym budynku\nprzechowuje siê zbo¿e oraz\nprodukty z niego otrzymane\n- kasze i m±ki.\nCharakterystyczne\npodcienie umo¿liwiaj±\n³atwiejszy za³adunek towarów\nna wozy.\n
+COM_10_10
+Gospoda\n\nTa gospoda jest jedn± z\nnajbardziej znanych w\nmie¶cie. Mo¿na tu nie tylko\nzje¶æ ciep³y posi³ek i napiæ\nsiê czego¶ orze¼wiaj±cego,\nale równie¿ wynaj±æ pokój i\nprzenocowaæ.\n
+COM_10_11
+Domy kupców\n\nLudzie, którzy mieszkaj± w tych\ndomach, to kupcy z dziada\npradziada. Parter zajmuj±\nich sklepy, na piêtrze\nznajduj± siê pokoje\nmieszkalne, a poddasza pe³ni±\nrolê magazynów.\n
+COM_10_12
+Zajazd\n\nMo¿esz tu przenocowaæ. Pokoje\ns± utrzymane w starym\nstylu, gdyby nie ¶wie¿o\npobielone ¶ciany, to\nmog³oby siê wydawaæ, ¿e\nnic tu nie zmieniono od setek\nlat. Oczywi¶cie nocleg w takim\nhistorycznym miejscu jest\nbardzo drogi, choæ warunki nie\ns± komfortowe.\n
+Control_StationBlg
+Dyspozytornia
+DenkFlor
+Ten pomnik po¶wiêcono\nFlorowi 'WF Ultd.'\nWautersowi, s³ynnemu\nin¿ynierowi, twórcy wielu\npojazdów. Znane s± te¿\njego liczne zak³ady\nprzemys³owe.\n
+DenkHajo
+Pomnik Hajo Malthanera\n\nTen pomnik po¶wiêcony jest\ndla Hansjorga Malthanera,\nktóry stworzy³ tê grê w\nsiedem lat. Nawet bogowie\ngreccy potrzebowali wiêcej\nczasu na takie zadania.\n
+DenkMHz
+Pomnika Georga Heiduka\n\nTen pomnik po¶wiêcony jest\nGeorgowi Heidukowi,\nznanemu jako MHz,\nautorowi bardzo wielu\nbudynków w grze.\nSymbolizuje jego\nspostrzegawczo¶æ i dba³o¶æ o\nszczegó³y.\n
+DenkOwen
+Plac po¶wiêcony Owenowi\nRudge, s³ynnemu\nfinansi¶cie i in¿ynierowi\nd¼wiêku.\n
+DenkSeth
+Plac imienia Setha C.\nTriggsa architekta, który\nstworzy³ wiele wspania³ych\nbudynków. Znane s± te¿\njego prace nad popraw±\nkomunikacji.\n
+DenkTomas
+Ten pomnik dedykowany\njest Tomasowi Kubes, który\npomóg³ ulepszyæ Simutrans\nw wielu, wielu aspektach\ns³u¿±c rad± i ciê¿k± prac±.\n
+DenkTrikky
+Pomnik dedykowany Rickowi\nMcGreal znanemu jako\nTrickky, s³ynnemu\narchitektowi który stworzy³\nwiele wspania³ych\nbudynków.\n
+DenkVM
+Ten pomnik wystawiono\nManfredowi 'VT Vienna'\nTomaschitzowi, s³ynnemu\nin¿ynierowi, projektantowi\nwielu pojazdów szynowych.\n
+DenkVolker
+To mauzoleum zbudowa³\nVolker Meyer, który poprawi³\nwiele opcji gry Simutrans.\n
+Eingang
+Wej¶cie
+Feste
+Zamek Bolków\n\nZamek Bolków zosta³ za³o¿ony\nprzez ksiêcia legnickiego\nBoles³awa II Rogatkê\nzwanego £ysym, pó¼niej\nrozbudowany przez jego\nsyna Bolka I Surowego,\nksiêcia\n¶widnicko-jaworskiego.\nObecnie na zamku mie¶ci siê\nMuzeum Regionalne,\nzarz±dzane przez Bractwo\nRycerskie Zamku Bolków.\n
+Fluid_StationBlg
+Zbiornik ropy/benzyny
+FreightTrainStop
+Stacja towarowa
+Gas_StationBlg
+Zbiornik gazu
+GCG1TrainStop
+Du¿y dworzec (lewy tor)
+GCG2TrainStop
+Du¿y dworzec (prawy tor)
+Goods_StationBlg
+Magazyny
+Gymnasium
+Gimnazjum\n\nTo w³a¶nie tu dzieci ¶wiata\nSimutrans ucz± siê\npodstaw matematyki, fizyki\ni chemii, aby potem\nkonstruowaæ nowe, szybsze\npojazdy i jeszcze lepiej i\nszybciej transportowaæ\ntowary i ludzi.\n
+IND_01_01
+Darmowe miejsca\nparkingowe.\n
+IND_01_04
+Magazyn wyrobów\ngotowych.\n
+IND_01_06
+Fabryka wafelków\n\nTutaj z wafli, czekolady,\norzechów i mleka w proszku\nprodukuje siê wafelki.\nNiektórzy wierz±, ¿e jeden\ntaki wafelek jest w stanie\nzaspokoiæ ich g³ód na d³u¿ej,\nni¿ kwadrans.\n
+IND_01_07
+Stacja transformatorowa\n\nPr±d p³yn±cy liniami\nwysokiego napiêcia jest tu\nzamieniany na zwyk³e 230V\ni rozprowadzany po mie¶cie.\nOsobom nieupowa¿nionym\nwstêp wzbroniony!\n
+IND_01_08
+Fabryka nawozów\nazotowych\n
+IND_02_02
+Prywatna piekarnia\n\nTa piekarnia ma swoich\nsta³ych klientów. Pieczywo\nmo¿na kupiæ od pi±tej rano\ndo teoretycznie dwunastej\nw po³udnie, ale ju¿ o\ndziewi±tej pó³ki ¶wiec±\npustkami.\n
+LeuchtturmShipStop
+Latarnia morska
+Lighthouse
+Latarnia morska\n\n
+MainTerminal1930
+Terminal (1930)
+MHzSmallStation
+Budynek stacyjny I
+ModernAirTerminal477
+Nowoczesny terminal
+MonorailDepot
+Zajezdnia
+OldTownhall
+Stary ratusz\n\n
+Patricks_Rock
+£ysa góra\n\nLegenda g³osi, ¿e kiedy¶ raz do\nroku odbywa³ siê na tej\ngórze zlot czarownic. Dzi¶\nnie ma tu ich wcale, lub\nskutecznie ukrywaj± siê w\nt³umie turystów, licznie\nodwiedzaj±cych to miejsce.\n
+PostOffice
+Poczta
+PostStop
+Skrzynka pocztowa
+PSFreightTrainStop
+Peron towarowy
+PSHall1TrainStop
+Dworzec kolejowy
+PSHall2TrainStop
+Dworzec kolejowy I
+Raven_Kirche
+Ko¶ció³ ¶w. Krzysztofa\n\n¦wiêty Krzysztof jest uwa¿any\nza opiekuna podró¿nych,\npielgrzymów, kierowców\nprzewodników, flisaków,\nmarynarzy, wo¼niców,\n¿eglarzy, biegaczy i tragarzy.\nNic dziwnego, ¿e w tym\nko¶ciele zawsze jest mnóstwo\nludzi. Na pewno spotkasz tu\nrównie¿ pracowników Twoich\nlinii.\n
+RES_00_08
+Dom z gara¿em\n\nPierwotnie gara¿ tego domku by³ w\npiwnicy, ale jego w³a¶ciciel\npewnego dnia kupi³ sobie\ndu¿y wóz kempingowy i\nzapragn±³ trzymaæ go w\ngara¿u. Wybudowa³ wiêc nowy\ngara¿ obok domu zas³aniaj±c\nsiê nim przy okazji od\nw¶cibskich s±siadów.\n
+Residenz
+Rezydencja Burmistrza\n\nBurmistrz tego miasta jest ju¿\nwystarczaj±co bogaty, aby\nwystawiæ sobie ten ma³y\nreprezentacyjny pa³acyk i\nw nim mieszkaæ oraz\nprzyjmowaæ licznych go¶ci z\nca³ego ¶wiata.\n
+SandStationMHz
+Peron tymczasowy
+ShipDepot
+Stocznia
+ShipDepotEW
+Stocznia
+ShipStop
+Doki pasa¿erskie
+STADIUM2
+Du¿y stadion\n\nTutaj odbywaj± siê wszystkie\nwa¿ne i du¿e imprezy\nwidowiskowe. Równie¿ te o\nrandze miêdzynarodowej.\n
+Terminal1930
+Terminal pasa¿erski (1930)
+Tower1930
+Wie¿a kontroli lotów (1930)
+TowerMoistboy
+Wie¿a kontroli lotów (zaprojektowana przez Moistboy'a)
+TrainDepot
+Lokomotywownia
+TrainStopMaglev
+Przystanek
+TrainStopMaglevIndicator
+Przystanek z tablic± informacyjn±
+TramDepot
+Zajezdnia tramwajowa
+VictorianStation
+Stacja kolejowa
+Vorplatz
+Wej¶cie
+Windmill
+Wiatrak\n\n
+#____________________________________citycar____________________________________
+#____________________________________citycar____________________________________
+Ambulanz
+Ambulans
+FordT
+Ford T
+green_car
+Zielony sedan
+Motorrad
+Motocykl
+orange_bus
+Gimbus
+yellow_car
+¯ó³ty sedan
+#__________________________________dummy_info___________________________________
+#__________________________________dummy_info___________________________________
+factory_cannery_details
+<title>Fabryki konserw</title>\n<h1>Fabryki konserw</h1>\n<p>Produkty konserwowane w puszkach wprowadzi³ Anglik, Peter Durand. Jego pomys³ kupi³a firma Dinkin, Hall and Gamble. W 1811 za³o¿y³a ona zak³ady puszkuj±ce ¿ywno¶æ i od 1830 puszkowan± ¿ywno¶æ mo¿na by³o zakupiæ w londyñskich sklepach.</p>\n<p>W tej fabryce specjalizuj± siê w przetworach miêsnych (mielonki, konserwy turystyczne, pasztety) oraz rybnych (paprykarze, ¶ledzie w oleju i pomidorach, tuñczyk w oleju lub sosie w³asnym)</p>\n
+#____________________________________factory____________________________________
+#____________________________________factory____________________________________
+2Raffinerie
+Rafineria
+3Raffinerie
+Rafineria
+Aufwindkraftwerk
+Elektrownia s³oneczna
+Autohaus
+Salon samochodowy
+Autohersteller
+Fabryka samochodów
+bakery
+Piekarnia
+brewery
+Browar
+Buchgrosshandel
+Ksiêgarnia
+cannery
+Fabryka konserw
+Cementmill
+Cementownia
+ChemicalPlant
+Zak³ady przemys³u chemicznego
+CHEMIST
+Apteka
+Concretefactory
+Betoniarnia
+cow_farm
+Hodowla byd³a
+dairy
+Mleczarnia
+Druckerei
+Drukarnia
+Erzbergwerk
+Kopalnia ¿elaza
+fish_pond
+Stawy hodowlane
+fish_swarm
+£awica ryb
+food_processing_plant
+Przetwórnia ¿ywno¶ci
+Geokraftwerk
+Elektrownia geotermalna
+grain_farm
+Gospodarstwo rolne
+grain_mill
+M³yny zbo¿owe
+grain_windmill
+M³yny zbo¿owe
+Incinerator
+Spalarnia ¶mieci
+Kohlegrube
+Kopalnia wêgla
+Kohlekraftwerk
+Elektrownia
+Marketplace
+Targowisko
+Materialswholesale
+Sk³ad materia³ów budowlanych
+Moebelfabrik
+Fabryka mebli
+Moebelhaus
+Sklep meblowy
+Muellkraftwerk
+Spalarnia ¶mieci
+Nutzwald
+Wycinka drzewa
+Oelbohrinsel
+Platforma wiertnicza
+Oelfeld
+Szyb naftowy
+Oelkraftwerk
+Elektrownia naftowa
+Oelpumpe
+Kiwon
+old_farm
+Farma
+Papierfabrik
+Zak³ady papiernicze
+Pharmaceutics
+Farmaceutyka
+Raffinerie
+Wytwórnia plastiku
+Rinnenkraftwerk
+Elektrownia s³oneczna
+Saegewerk
+Tartak
+SaegewerkMHz
+Tartak
+Sandquarry
+Piaskownia
+scrap_yard
+Wysypisko ¶mieci
+Stahlwerk
+Huta ¿elaza
+Stonequarry
+Kamienio³om
+supermarket
+Supermarket
+TANKE
+Stacja benzynowa
+thermisches_Solarkraftwerk
+Elektrownia s³oneczna
+Turmkraftwerk
+Elektrownia s³oneczna
+Windkraftwerk
+Elektrownia wiatrowa
+#_____________________________________good______________________________________
+#_____________________________________good______________________________________
+Autos
+Samochody
+beer
+Piwo
+Bretter
+Deski
+Buecher
+Ksi±¿ki
+canned_food
+Konserwy
+Chemicals
+Chemikalia
+Concrete
+Beton
+Eisenerz
+Ruda ¿elaza
+fish
+Ryby
+flour
+M±ka
+food
+¯ywno¶æ
+Gasoline
+Benzyna
+grain
+Zbo¿e
+Holz
+Drewno
+Kohle
+Wêgiel
+meat
+Miêso
+Medicine
+Lekarstwa
+milk
+Mleko
+Moebel
+Meble
+None
+nic
+Oel
+Ropa
+Passagiere
+Pasa¿erowie
+Post
+Poczta
+PrintersInk
+Tusz drukarski
+Sand
+Piasek
+Stahl
+Stal
+Stone
+Kamieñ
+waste
+¦mieci
+#__________________________________ground_obj___________________________________
+#__________________________________ground_obj___________________________________
+bushes
+Krzaki
+deco_rock
+G³az
+deco_rock_2
+G³az
+flowers
+Kwiaty
+gemsen
+Kozice
+gooses
+Gêsi
+Hochsitz1
+Budka my¶liwska
+Hochsitz2
+Budka my¶liwska
+moles
+Kretowiska
+rocks
+Ska³y
+See1
+Jezioro
+See2
+Jezioro
+See3
+Jezioro
+See4
+Jezioro
+sheeps
+Owce
+#__________________________________pedestrian___________________________________
+#__________________________________pedestrian___________________________________
+Couple
+Zakochani\n\nZakochani s± w¶ród nas, jak ¶piewa³a Helena Majdaniec... Podgl±danie ich raczej nie jest zbyt kulturalne, wiêc lepiej zaj±æ siê czym¶ innym, np. wybudowaæ jak±¶ liniê.
+Cyclist
+Rowerzysta\n\nLech Janerka "jedzie na rowerze do byle gdzie". Ten osobnik zapewne te¿, bo gdyby wiedzia³ gdzie jechaæ, skorzysta³by z komunikacji publicznej.
+pedestrian_1
+Pan Tomek\n\nPan Tomkek w³a¶nie przyjecha³. Za kilka dni bêdzie wraca³, s±dz±c po minie wybierze te same linie, bo wygl±da na zadowolonego.
+pedestrian_2
+Pani Kasia\n\nPani Kasia wysz³a tylko przywitaæ Pana Tomka, który do niej przyjecha³. Mo¿e z powrotem pojedzie z nim?
+pedestrian_3
+Policjant\n\nPolicjant pilnuje tu porz±dku. Ma wiele pracy, w zat³oczonej okolicy dworca pe³no jest kieszonkowców.
+pedestrian_4
+Kieszonkowiec\n\nKieszonkowiec wygl±da i zachowuje siê jak przeciêtny przechodzieñ. Wystarczy jednak, aby¶ na chwilê spu¶ci³ z oka swój baga¿, a chêtnie siê nim zaopiekuje.
+pedestrian_child
+Matka z dzieckiem\n\nZbyt du¿y t³ok jest w autobusach, wiêc ta pani woli chodziæ bezpiecznie ni¿ nara¿aæ dziecko na uduszenie w przepchanym busie.
+pedestrian_dog
+Cz³owiek z psem\n\nNie masz z kim chodziæ na spacery? Kup sobie psa.
+Woman
+Kobieta
+#_________________________________program_text__________________________________
+#_________________________________program_text__________________________________
+CATEGORY_01
+sztuki
+CATEGORY_02
+towary sypkie
+CATEGORY_03
+ropa/benzyna
+CATEGORY_04
+mro¿onki
+CATEGORY_05
+p³ynne produkty
+CATEGORY_06
+drewna
+CATEGORY_07
+proszek/granulki
+rolls
+rolki
+#___________________________________roadsign____________________________________
+#___________________________________roadsign____________________________________
+choose_point
+Drogowskaz
+ChooseSignals
+Semafor wyboru peronu
+ChooseSignalsMonorail
+Semafor wyboru peronu
+Endofchoosetrack
+Koniec peronu
+LongBlockSignals
+Semafor d³ugiego bloku
+Minimum80
+Prêdko¶æ minimalna 80km/h
+NoAirEntry
+Zakaz wjazdu (pas startowy)
+NoEntry
+Zakaz wjazdu
+preSignals
+Pre-sygna³
+preSignalsMonorail
+Pre-sygna³
+RailClose
+Zakaz wjazdu
+Railgate
+Brama kolejowa
+Roadgate
+Brama drogowa
+Signals
+Semafor
+SignalsMonorail
+Semafor
+traffic_light
+Sygnalizacja ¶wietlna
+#_____________________________________tree______________________________________
+#_____________________________________tree______________________________________
+Ahorn-1
+Klon zwyczajny \n(Acer platanoides)\n\nDrzewo dorastaj±ce 20-30\nmetrów, posiadaj±ce\nszeroki, okr±g³y pieñ o\nkorowinie g³adkiej, na\nstarszych okazach drobno\nspêkanej, rzadko ³uszcz±cej\nsiê ³uskami. Korona\nroz³o¿ysta.\n
+Ahorn-2
+Klon polny\n(Acer campestre)\n\nDrewno klonu zwyczajnego\ndoskonale nadaje siê do\nobróbki. Mo¿na wykonywaæ\nz niego meble, pod³ogi oraz\ninstrumenty muzyczne.\nStradivarius z drewna klonu\nzwyczajnego wykonywa³\ndolne pokrywy swoich\nskrzypiec.\n
+Ahorn-Gruppe
+Klon palmowy \n(Acer palmatum)\n\nKlon palmowy pochodzi z\nJaponii. Ze wzglêdu na\nozdobne li¶cie uprawiany\njako drzewo ozdobne.\n
+Birke-1
+Brzoza brodawkowata \n(Betula pendula)\n\nWysoko¶æ brzozy brodawkowatej\ndochodzi do 25 m, przy\n¶rednicach do ok. 60 cm;\nczêsto tak¿e w postaci\nkar³owatej. Kora brzozy jest\nmlecznobia³a, daje siê\noddzieraæ cienkimi\npoprzecznymi pasami.\n
+Buche-1
+Buk zwyczajny \n(Fagus sylvatica)\n\nBuk osi±ga wysoko¶æ do 40\nmetrów. Jego kora jest\njasnoszara, cienka i lekko\npo³yskuj±ca. \n
+Busch_2
+Dzika ró¿a\n(Rosa canina)\n\nDzika ró¿a jest znana od\nczasów ludzi pierwotnych,\nktórzy to traktowali jej\nowoce jako codzienne\npo¿ywienie. P³atki ró¿y\nstanowi³y bardzo popularne\npachnid³o dalekiego Wschodu.\nStaro¿ytni Rzymianie\nwype³niali p³atkami poduszki,\nco mia³o ich usypiaæ i\nuspokajaæ.\n
+Kiefer_1
+Sosna zwyczajna\n(Pinus sylvestris)\n\nSosny to ro¶liny zimozielone o\nd³ugich, w±skich ig³ach.\nIch owocami s± szyszki.\n
+Kiefer_2
+Sosna limba\n(Pinus cembra)\n\nSosny s± ¼ród³em po¿ywienia\ndla wielu owadów, z\nktórych czê¶æ zwalczana\njest jako szkodniki. Ich\nnasionami ¿ywi± siê równie¿\nwiewiórki.\n
+Kiefer_3
+Sosna czarna\n(Pinus nigra)\n\nSosny stanowi± istotne ¼ród³o\ndrewna, ¿ywicy, olejków\neterycznych, a tak¿e\njadalnych nasion.\n
+Kiefer_4
+Sosna pinia\n(Pinus pinea)\n\nSosny to wiecznie zielone\ndrzewa, rzadziej krzewy,\nposiadaj±ce przewody\n¿ywiczne w korze i drewnie.\nTworz± mieszane lub\njednogatunkowe lasy.\n
+Kiefer_5
+Sosna nadmorska\n(Pinus pinaster)\n\nKora wiêkszo¶ci sosen jest\ngruba i ³uskowata, tylko u\nniektórych gatunków jest\ncienka i odpada p³atami.\n
+Latschenkiefer
+Kosodrzewina\n(Pinus mugo)\n\nSosna, która dorasta tylko do\nniewielkich rozmiarów\n(oko³o trzy i pó³ metra) i\njest krzewem. Wystêpuje w\ngórach i jest objêty ¶cis³± ochron±.\nIg³y kosodrzewiny s± ¼ród³em\nolejku, w Bu³garii stosowane\ns± tak¿e jako sk³adnik\nherbaty zio³owej.\n
+Palmtree1
+Palma kokosowa\n(Cocos nucifera)\n\nWszystkie czê¶ci palmy kokosowej\ns± u¿yteczne. Z jednego\ndrzewa mo¿na uzyskaæ do\n75 "orzechów" rocznie co\nstanowi znacz±c± warto¶æ\nekonomiczn±.\n
+Pappel-1
+Topola w³oska \n(Populus nigra 'Italica')\n\nTopola w³oska jest bardzo\npopularnym drzewem\nozdobnym, ze wzglêdu na\nswój kolumnowy pokrój\nsadzonym zw³aszcza wzd³u¿\ndróg. Jest ona sztucznie\nwyhodowan± odmian±\nozdobn± topoli czarnej.\nDorasta do 25 m wysoko¶ci.\n
+Pappel-2
+Topola czarna\n(Populus nigra)\n\nTopola to gatunek drzewa z\nrodziny wierzbowatych.\nWystêpuje na terenie\n¶rodkowej, zachodniej i\npo³udniowej Europy,\n¶rodkowej Azji, zachodniej\nSyberii i pó³nocnej Afryki.\nDorasta do 25 m wysoko¶ci.\n
+Shunter-tree2
+Martwe drzewo\n\nW ci±gu ¿ycia drzewo\nwype³nia tylko czê¶æ\nswoich funkcji, równie\nwa¿n± rolê ma ono do\nspe³nienia po ¶mierci.\nTworzy warunki ¿ycia ro¶linom\ni zwierzêtom w swoim\notoczeniu, na sobie i\nwewn±trz siebie. Las\nnaturalny nie mo¿e ¿yæ bez\nmartwych drzew. Rozk³adaj±ce\nsiê drzewo mie¶ci w sobie\ndwukrotnie wiêcej ¿ywych\norganizmów ni¿ mo¿na ich\nnaliczyæ za jego ¿ycia.\n¯artobliwie ujmuj±c: martwe\ndrzewo jest "dwukrotnie\nbardziej ¿ywe" ni¿ wtedy gdy\nsamo ¿y³o.\n
+Tanne_1
+Jod³a bia³a\n(Abies alba)\n\nJod³a bia³a wystêpuje w stanie\ndzikim w górach ¶rodkowej i\npo³udniowej Europy. Nie\nro¶nie w Skandynawii, Anglii\ni na Pó³wyspie Iberyjskim (z\nwyj±tkiem Pirenejów).\n
+Tanne_2
+Jod³a pospolita\n(Abies pectinata)\n\nJod³y w naszych warunkach\nosi±gaj± do 50m, pier¶nica\ndo 1,5m, korona jod³y jest\nw±ska, do¶æ lu¼no\nuga³êziona, na szczycie\ntworzy siê tzw. "bocianie\ngniazdo"\n
+Tanne_3
+Jod³a kaukaska \n(Abies nordmanniana)\n\nDrzewo dorastaj±ce w\nojczy¼nie do 50m i 1,5-2m\npier¶nicy. Podobna do jod³y\npospolitej, ale ig³y u³o¿one\np³asko do przodu, zakrywaj±\nga³±zkê. Szyszki maj± 12 do\n20cm d³ugo¶ci.\n
+Tanne_4
+Jod³a syberyjska\n(Abies sibirica)\n\nJod³a czêsto atakowana jest\nprzez mszyce (Adelges\nnordmannianae), z których\nspadzi pszczo³y\nwytwarzaj± jeden z\nnajbardziej cenionych\n"czarnych" miodów\nspadziowych.\n
+Tanne_5
+Jod³a górska\n(Abies lasiocarpa)\n\nDrewno jod³y wykorzystywane\njest g³ównie w przemy¶le\nbudowlanym i\ncelulozowo-papierniczym.\nSzyszki dostarczaj± olejku\nwykorzystywanego w\nperfumerii.\n
+Tanne_6
+Jod³a grecka\n(Abies cephalonica)\n\nJod³a o oliwkowobr±zowych\npêdach pokrytych ¿ywic±\nIg³y - sztywne, ostro\nzakoñczone, k³uj±ce do ok\n3,5cm d³ugo¶ci promieni¶cie i\nprostopadle do ga³±zki.\nSzyszki do 20cm d³ugo¶ci.\nDo¶æ dobrze znosi upa³y i\nsusze, wolno ro¶nie.\n
+Tree4
+Sosna nadmorska\n(Pinus pinaster)\n\nDrzewo iglaste, ¶rednich\nrozmiarów. U starszych\ndrzew korona szeroka i\nsp³aszczona. M³ode drzewa\nbywaj± wycinane na choinki.\n
+Tree5
+Leszczyna pospolita\n(Corylus avellana)\n\nDu¿y, wielopienny krzew do 5m\nwys. Ga³êzie wzniesione,\ntworz±ce szerok±, gêst±\nkoronê. Z owoców\nleszczyny (orzechów\nlaskowych) uzyskuje siê olej.\n
+Tree6
+¦wierk pospolity\n(Picea abies)\n\nOsi±ga wysoko¶æ 40-50m,\n¶rednica pnia do 1,5m.\nUwa¿a siê, ¿e legendarne\nskrzypce Stradivariusa\nzawdziêczaj± swój\nniespotykany d¼wiêk miêdzy\ninnymi szczególnym\nw³asno¶ciom drewna\n¶wierkowego z Czech, z\nktórego zosta³y wykonane.\n
+Willow
+Wierzba p³acz±ca \n(Salix x chrysocoma)\n\nWierzba p³acz±ca to\nnajpospolitsza z polskich\nwierzb. Uwa¿ana jest za\nodmianê wierzby bia³ej, ale\nw rzeczywisto¶ci powsta³a ze\nskrzy¿owania S. alba 'Vitellina'\nz S. babylonica 'Babylon'. Pod\njej charakterystycznymi,\nzwisaj±cymi pêdami zawsze w\nlecie mo¿na znale¼æ trochê\ncienia.\n
+#____________________________________tunnel_____________________________________
+#____________________________________tunnel_____________________________________
+FastRailTunnel
+Nowoczesny tunel kolejowy
+FastRoadTunnel
+Nowoczesny tunel drogowy
+RailTunnel
+Tunel kolejowy
+RoadTunnel
+Tunel drogowy
+#____________________________________vehicle____________________________________
+#____________________________________vehicle____________________________________
+0Ben103
+Bennhardt BR 103
+1Ben140
+Bennhardt BR 140
+1Dampflokomotive
+H-Trans 0-4-0T
+1Diesellokomotive
+H-Trans Br 212
+1Ellok
+H-Trans E1
+1TPEllok
+TPI F7A
+2Ben155
+Abro Br250
+2Diesellokomotive
+H-Trans Br218
+2Ellok
+H-Trans Tigress I
+2Garrat
+Lokomotywa Garratt
+3Ben185
+Abro Br185
+3Diesellokomotive
+H-Trans Br365
+3Garrat
+Tender Garratt
+707
+Boeing 707
+A3-5
+Lokomotywa A 3/5
+A3-5_tender
+Tender parowozu A 3/5
+A380
+Airbus A380
+Adler
+Lokomotywa Adler
+AdlerPersonenwagen
+Wagon pasa¿erski Adler
+Autotrailer
+Naczepa laweta
+Autotransportanhaenger
+Przyczepa lawety H-Trans (samochody)
+Autotransporter
+Laweta H-Trans (samochody)
+Autotransportwagen
+TPI (przewóz samochodów)
+BB1280
+BB1280 (krokodyl)
+Be5-7
+Lokomotywa Be 5/7
+Blimp
+Sterowiec
+Boxcar
+Wagon towarowy
+BR01
+Lokomotywa BR 01
+BR38
+Lokomotywa BR 38
+BR38-Tender
+Tender parowozu BR 38
+BR39
+Lokomotywa BR 39
+BR45
+Lokomotywa BR 45
+BR85
+Lokomotywa BR 86
+Bretteranhaenger
+Przyczepa WF Ultd. (deski)
+Brettertransporter
+Ciê¿arówka WF Ultd. (deski)
+Bretterwagen
+VT Vienna (deski)
+BRV36
+Lokomotywa BRV36
+Buchanhaenger
+Przyczepa Serj/H-Trans (ksi±¿ki)
+Buchtrailer
+Naczepa (ksi±¿ki)
+Buchtrailer2
+Naczepa II (ksi±¿ki)
+Buchtransporter
+Serj/H-Trans (ksi±¿ki)
+Buchwagen
+VT Vienna (ksi±¿ki)
+Buessig
+VW T1 Ogórek
+Bulkcarriage
+Wóz konny
+Bus
+Autobus H-Trans
+Cementtrailer
+Naczepa (cement)
+Cooling_Container
+Wagon ch³odnia
+Cooling_Truck
+Ch³odnia do przewozu ryb
+Cooling_Waggon
+Wagon ch³odnia
+DC-3
+Douglas DC-3
+Doubledeck_city_bus
+Autobus piêtrowy
+E44
+Lokomotywa E44
+Eb3-5
+Lokomotywa Eb 3/5
+Ed2x2
+Lokomotywa Ed2x2
+EinheitsTender
+Tender parowozów z serii BR
+EnCo_Steel_Ship
+Statek transportowy
+Erzanhaenger
+Przyczepa H-Trans (towary sypkie)
+Erztrailer
+\n\n\nnaczepa wywrotka jednoosiowa
+Erztransporter
+Transporter H-Trans Mk II
+Erzwagen
+H-Trans (towary sypkie)
+F7back
+Lokomotywa koñcowa F7 A
+FastFerry
+Poduszkowiec
+Fishing_Boat
+Trawler
+Fishing_Boat_DanMacK
+Kuter rybacki
+Fokker_F27
+Fokker F27
+GarbageTruck
+mieciarka
+Guppy
+Samolot transportowy Super Guppy
+H-Trans-Tiger-Car
+H-Trans Tiger pasa¿erski
+H-Trans-Tiger-Mail-Car
+H-Trans Tiger pocztowy
+H-Trans-Tigress-II-Back
+Lokomotywa koñcowa Tigress II
+H-Trans-Tigress-II-Front
+Lokomotywa Tigress II
+Heavy_ore_truck
+Wozid³o Belaz
+Hochbordwagen
+Wêglarka (18t)
+Holzanhaenger
+Przyczepa JET (drewno)
+Holztrailer
+Naczepa (drewno)
+Holztransporter
+H-Trans (drewno)
+Holzwagen
+H-Trans (drewno)
+Horsebookscariage
+Wóz konny (ksi±¿ki)
+Horsemailcariage
+Pocztowy wóz konny
+Horsepapercariage
+Wóz konny (papier)
+Horsepassengerscariage
+Wóz konny (pasa¿erski)
+Horses
+Konie zaprzêgowe
+Horsewoodcariage
+Wóz konny (drewno)
+Hunslet
+Lokomotywa manewrowa Hunslet
+HVPosttransporter
+Pocztowóz DIBU
+ICE_TD-back
+Lokomotywa koñcowa ICE-TD
+ICE_TD-car
+Wagon ICE-TD
+ICE_TD-front
+Lokomotywa ICE-TD
+IL-76
+Samolot pocztowy I£ 76
+JNR_C11
+Lokomotywa JNR C11
+JR_9600
+Lokomotywa JR 9600
+JR_9600_tender
+Tender parowozu JR 9600
+Ju52
+Samolot pasa¿erski Ju52
+JumboJet
+Boeing 747 "Jumbo Jet"
+kkStB_tender
+Tender parowozów kkStB
+kkStB110
+Lokomotywa kkStB110
+kkStB91
+Lokomotywa kkStB91
+Kohleanhaenger
+H-Trans (wêgiel)
+Kohletransporter
+Transporter H-Trans
+Kohlewagen
+H-Trans (wêgiel)
+Kunststofanhaenger
+Przyczepa H-Trans (plastik)
+Kunststofftransporter
+H-Trans (plastik)
+logs
+barka
+Lowa
+Tramwaj Lowa
+Lowa_Anhaenger
+Doczepa Lowa
+MailExpress
+Samolot pocztowy
+Milk_Truck
+Cysterna na mleko
+Milk_Waggon
+Cysterna na mleko
+Moebelschiff
+Statek meblowy
+Moebelwagen
+Leki wagon towarowy VT Vienna
+NeuOelwagen
+Cysterna (80t)
+Oelanhaenger
+Przyczepa H-Trans (ropa/benzyna)
+Oelwagen
+Cysterna VT Vienna (ropa)
+Oilbarge
+barka
+Oiltrailer
+Naczepa (ropa/benzyna)
+old_open_car
+wagon wêglarka
+OldOil
+Cysterna (18t)
+Ox2
+Wo³y (2)
+Ox4
+Wo³y (4)
+Papieranhaenger
+Przyczepa Trikky (papier)
+Papiertransporter
+Trikky (papier)
+Papierwagen
+VT Vienna (papier)
+Passagierwagen
+H-Trans wagon pasa¿erski
+Pferdebahn
+Zaprzêg konny
+Pferdebahnwagen
+Tramwaj konny (potrzebuje koni)
+Postschiff
+Statek pocztowy
+Posttransporter
+Pocztowóz H-Trans
+Postwagen
+H-Trans Pocztowo-baga¿owy
+PrPersonenwagen
+Wagon pasa¿erski
+PrPostwagen
+Wagon pocztowy
+RenaultTH5
+Renault TH5
+Sandanhaenger
+Pryczepa WF Ultd. (piasek)
+Sandtransporter
+Ciê¿arówka WF Ultd.
+schooner
+¯aglowiec Dar Pomorza
+SD40-2-back
+Lokomotywa koñcowa SD40-2
+SD40-2-front
+Lokomotywa SD40-2
+SlowFerry
+H-Trans Passenger Ferry
+SMPoiltruck
+Cysterna Star 20
+Stahlanhaenger
+Przyczepa H-Trans (stal)
+Stahltransporter
+H-Trans (stal)
+Stahlwagen
+VT Vienna (stal)
+Staubkesselwagen
+VT Vienna (plastik)
+Steamer
+Stefan Batory
+Stoneanhaenger
+Przyczepa WF Ultd. (kamieñ)
+Stonetransporter
+Ciê¿arówka WF Ultd. Mk II
+T13
+Tramwaj T13
+T24
+Tramwaj T24
+Tanklastzug
+Cysterna H-Trans (ropa/benzyna)
+Tatra-T4
+Tatra T4
+Tatra-T4_Wagon
+Tatra T4 (doczepa)
+TB13
+Doczepa TB13
+TB24
+Doczepa TB24
+TPBeiwagen
+TPI VT98 wagon pasa¿erski
+TPPassagierwagen
+TPI wagon pasa¿erski
+TPSchienenbus
+TPI VT98 (dmu)
+Tram_GT6_Ende
+Düwag GT6 (koñcówka)
+Tram_GT6_Kopf
+Düwag GT6
+Tugboat
+Holownik
+VolvoFH12
+Volvo FH12
+XMail
+Wagon pocztowy
+XTest
+Wagon pasa¿erski
+Zeppelin
+Sterowiec Zeppelin
+#______________________________________way______________________________________
+#______________________________________way______________________________________
+asphalt_road
+Droga asfaltowa
+city_road
+Droga miejska
+cobblestone_road
+Droga brukowana
+concrete_sleeper_track
+Tor na podk³adach betonowych
+dirt_road
+Droga polna
+elevated_monorail
+Podwy¿szona kolej jednoszynowa
+gavel_road
+Droga szutrowa
+Kanal
+Kana³
+MaglevTrack
+Tory Maglev
+MaglevTrackElevated
+Podwy¿szone tory kolei Maglev
+mip_cobblestone_road
+Droga brukowana MIP
+monorail
+Tor kolei jednoszynowej
+Powerline
+Linia wysokiego napiêcia
+Rillenschienen
+Tory tramwajowe
+river
+Rzeka
+river2
+Strumyk
+runway_grass
+Trawiasty pas startowy
+runway_modern
+Nowoczesny pas startowy
+sand_track
+Tor tymczasowy
+steel_sleeper_track
+Tor na podk³adach stalowych
+taxiway
+Pas ko³owania
+wooden_sleeper_track
+Tor na podk³adach drewnianych
+#__________________________________way-object___________________________________
+#__________________________________way-object___________________________________
+HighSpeedOverheadpower
+Nowoczesna sieæ trakcyjna
+SlowOverheadpower
+Sieæ trakcyjna

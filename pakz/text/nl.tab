@@ -1,0 +1,884 @@
+################################################################################
+#                                                                              #
+#                Simutrans Scenario Specific Translation File                  #
+#                                Scenario: pak64                               #
+#                            Language: nl Nederlands                           #
+#                             Encoding: ISO-8859-1                             #
+#                            Font : Prop-Latin1.bdf                            #
+#                           Date Created: 22.10 2012                           #
+#                                                                              #
+#                                   authors:                                   #
+#                                   - Combuijs                                 #
+#                                    note:                                     #
+#                                    - Dwachs                                  #
+#                                    note:                                     #
+#                              Frank Penz - FrankP                             #
+#                                    note:                                     #
+#                            Nathan Samson - Nathan                            #
+#                                    note:                                     #
+#                        Lorenz Van Damme - gforcetheone                       #
+#                                    note:                                     #
+#                             Mark Knoester - mark                             #
+#                                    note:                                     #
+#                             P. Hamming - phamming                            #
+#                                    note:                                     #
+#                          Markus Pristovsek - prissi                          #
+#                                    note:                                     #
+#                           Michael Olbricht - whoami                          #
+#                                    note:                                     #
+#                            Wim Vreeswijk - wipi35                            #
+#                                    note:                                     #
+#                                                                              #
+################################################################################
+#____________________________________bridge_____________________________________
+#____________________________________bridge_____________________________________
+ClassicRail
+Spoorbrug (beton)
+ClassicRoad
+Autobrug (beton)
+koka_Bridge_single
+verhoogde spoorbaan
+MaglevBridge
+Maglev/monorail brug
+mlm_concrete_bridge
+betonnen monorail brug
+ModernRoad
+Autobrug (voorgespannen beton)
+MonorailRamp
+monorail koppelstuk
+Schiffhebewerk
+Scheepslift
+SteelRail
+Stalen spoorbrug
+tb_classic_road
+brug van beton
+ViaductRail
+Bakstenen viaduct
+WoodenRoad
+houten autobrug
+#___________________________________building____________________________________
+#___________________________________building____________________________________
+00_01_CITY
+Stadhuis\n\noud stadhuis\n
+01_CITY
+\nStadhuis\n
+02_CITY
+\nStadhuis\n
+03_CITY
+\nStadhuis\n
+03_CITY_A
+\nStadhuis\n
+03_CITY_B
+\nStadhuis\n
+03_CITY_C
+\nStadhuis\n
+04_CITY
+\nStadhuis\n
+04_CITY_A
+\nStadhuis\n
+04_CITY_B
+\nStadhuis\n
+04_CITY_C
+\nStadhuis\n
+1930AirDepot
+Eenvoudige Hangar
+1headquarter
+Uw hoofdkantoor!
+2headquarter
+Uw hoofdkantoor!
+3headquarter
+Uw hoofdkantoor!
+A1_ALTE_KIRCHE
+Oude kerk\n\nEen beroemde oude kerk.\nIedereen moet het een keer\ngezien hebben. \n\n\n\n
+A2_SCHLOSS1
+Neuschwanstein\n\nHet kasteel van de krankzinnige\nkoning. Dit is echt het\nbekijken waard!\n\n\n
+A3_BURG1
+Oude ruines\n\nDeze ruines vertellen een oud\nverhaal. Leuk om eens langs te\ngaan.\n\n
+A4_SCHLOSS2
+Oud kasteel\n\nDit oude kasteel  is altijd een \nbezoekje waard.\n\n
+A5_STONEHENGE
+Stonehenge\n\nEen oude stenenkring. Zeer\nmysterieus!\n\n
+A6_DOME
+St. Willem kathedraal\n\nDeze prachtige oude kathedraal\nis een ware attractie.\n\n
+AirDepot
+Hangar van 1900
+AirportShed1930
+Loods voor post (1901)
+AirStop
+Pier
+AirTerminal477
+Luchthaventerminal
+Avila_Big_StationBlg
+Grote passagiershal
+Avila_Small_StationBlg
+Kleine passagiershal
+Avila_Warehouse_StationBlg
+Pakhuis (station)
+BigPostOffice
+Groot postkantoor
+BigTerminal477
+grote terminal
+Bulk_StationBlg
+bulkgoederen station
+BusStop
+Bushalte
+Car_StationBlg
+auto opslag
+CarDepot
+Depot voor straatvoertuigen
+ChannelStop
+laad- en losplaats
+COM_00_14
+Illegale wietplantage in een\noude fabriekshal\n\n
+COM_01_01
+Vertekpunt voor luchtballonnen\n\n
+COM_01_10
+Oude bioscoop, vergane glorie.\nTegenwoordig kun je er\nterecht voor cultfilms die je\nin andere bioscopen niet meer\nkunt zien\n\n
+COM_01_18
+Hoofdkantoor van\nverzekeringsmaatschappij 'Wij\nkeren nooit uit'\n\n
+COM_01_21
+Groot kantoorgebouw met\nvele ramen. Als je goed kijkt\nzul je zien dat er constant\neen glazenwasser bezig is met\nhet schoonhouden ervan.\n\n
+COM_01_22
+Hoofdkantoor van een\ninmiddels failliete dotcom\nbedrijf. Gelukkig was het\ngebouw beter bestand tegen\ngebakken lucht dan het\ndotcom bedrijf.\nTegenwoordig zit er een bank\nmet teveel geld.\n\n
+COM_02_02
+Parkeerterrein\n\n
+COM_02_19
+Groot kantoorgebouw met een\nbuitenlift. Vanuit de lift heb je\neen prachtig uitzicht op de\nstad.\n\n
+COM_10_02
+Landschapsarchitect MHz\nheeft dit prachtige park\nspeciaal voor de Simutrans\npopulatie ontworpen\n\n
+COM_10_05
+Historische arbeiderswoning\nmet grote kruidentuin\n\n
+Control_StationBlg
+Traffic control
+DenkFlor
+Flor Wauters Monument\n\nDit monument is opgedragen aan\nFlor 'WF Ultd.' Wauters, de\nberoemde ingenieur die veele\n(vracht)auto's ontworpen\nheeft. Hij is ook bekend van\nde vele ontwerpen van fabrieken.\n\n
+DenkHajo
+Hajo Malthaner Monument\n\nStandbeeld voor \nHansjörg Malthaner, \nde schepper van \nSimutrans.\n\n
+DenkMHz
+Georg Heiduk Monument\n\nopgedragen aan Georg Heiduk ("MHz"),\nde ontwerper van veel\ngebouwen. De kunstenaar heeft\nzijn scherpe oog voor details\nwillen uitdrukken in dit\nontwerp.\n\n
+DenkOwen
+Deze plek is opgedragen aan\nOwen Rudge de beroemde\ngeld expert en geluids\ntechnicus.\n\n
+DenkSeth
+Deze plek is opgedragen aan\nSeth C. Triggs de beroemde\narchitect die veel mooie\ngebouwen ontworpen heeft.\nHij is ook bekendn voor de\nvele studies om het\nverkeerssysteem te verbeteren.\n\n
+DenkTomas
+Dit monument is opgedragen\naan Tomas Kubes de beroemde\narchitect die geweldige\npanden ontworpen heeft.\n\n
+DenkTrikky
+Monument\n\nDit monument is opgedragen aan\n'Trikky' Rick McGreal de\nberoemde architect die\ngeweldige panden ontworpen\nheeft.\n\n
+DenkVM
+Monument\n\nDit monument is opgedragen aan\nManfred 'VT Vienna'\nTomaschitz de beroemde\ningineur die veel treinen\nontworpen heeft.\n\n
+DenkVolker
+Monument\n\nGebouwd voor Volker Meyer. Een\ninspiratie voor Simutrans, op\nvele gebieden.\n\n
+Eingang
+Ingang
+Feste
+Festivalterrein\n\nHier worden regelmatig grote\npopconcerten georganiseerd\nwaarbij het gras duidelijk te\nlijden heeft onder de grote\naantallen bezoekers.\n\n
+Fluid_StationBlg
+Opslagtank voor vloeistoffen
+FreightShipStop
+Goederenhaven
+FreightTrainStop
+Vrachtstation
+Gas_StationBlg
+Gastank
+GCG1TrainStop
+Linker helft van een groot perron met overkapping
+GCG2TrainStop
+Rechter helft van perron met overkapping
+Goods_StationBlg
+Pakhuis
+Gymnasium
+Scholengemeenschap\n\n
+IND_00_18
+Brouwerij van inferieur bier\n\n
+IND_01_03
+Tank voor de opslag van gas.\n\n
+IND_01_06
+Leerbewerkingsbedrijf met als\nspecialiteit zadels voor\nhipische doeleinden.\n\n
+IND_01_12
+In deze fabriek worden\nautobanden gerecycled tot\nontbijtkoek\n\n
+IND_01_13
+Zwarte fabriek\n\nDoor een ongeluk met een\nexploderende ketel met een\nzwarte smurrie is deze fabriek\nvoor altijd zwart.\n\n
+LargeShipStop
+Grote vrachtpier
+leftShipStop
+Linker haven gedeelte
+LeuchtturmShipStop
+Pier met vuurtoren
+Lighthouse
+Vuurtoren\n\n
+MainTerminal1930
+Hoofd terminal gebouw (1930)
+MHzSmallStation
+Klein stationsgebouw
+ModernAirTerminal477
+Modern terminal gebouw
+MonorailDepot
+monorail remise
+MonorailFoundation
+Monorail fundament
+MonorailGround
+Monorail bodem
+OldTownhall
+voormalig stadhuis\n\n
+Patricks_Rock
+Vulkaangebergte\n\n\nNa miljoenen jaren actief te\nzijn geweest is deze vulkaan\nal eeuwen in  rust en is een\ntoeristische attractie van de\neerste orde. Voor geologen\nen dagjesmensen een favoriete\nbestemming vanwege het\ntypische lava-landschap gevormd\ndoor de vele uitbarstingen in het\nverleden.\n\n
+PlainAirStop
+Vliegtuighalte
+PostOffice
+Postkantoor
+PostStop
+Brievenbus
+PSFreightTrainStop
+Vrachtstation
+PSHall1TrainStop
+Stationshal met kiosk
+PSHall2TrainStop
+Stationshal
+rampShipStop
+Aanlegsteiger met helling
+Raven_Kirche
+St. Meinrad kerk\n\n
+RES_01_01
+Modern prefab huis met grote\nzolderkamer\n\n
+Residenz
+Residentie\n\nHier kun je door middel van\nmeditatie weer helemaal tot\njezelf komen.\n\n
+rightShipStop
+Kaai met pier
+RUIN_0
+Middelseeuwse ruïne\n\n Dit was eens een groot en\nmooi kasteel voordat het in\n1400 geheel afbrandde. Aan\nde fundamenten kun je nog\nongeveer zien hoe groot het\nkasteel geweest moet zijn.\n
+SandStationMHz
+Zandstation
+ShipDepot
+Scheepswerf
+ShipDepotEW
+Scheepswerf (OW)
+ShipStop
+Haven
+STADIUM2
+Groot stadion\n\n Alle grote internationale\nevenementen vinden hier\nplaats.\n
+Tennis_Court
+Tennisbanen\n\n
+Terminal1930
+Luchthaventerminal
+Theatre
+Theater\n\n
+Tower1930
+Verkeerstoren (1930)
+TowerMoistboy
+Verkeerstoren
+TrainDepot
+Trein remise
+TrainStop
+overdekt station
+TrainStopMaglev
+Monorail/Maglev halte
+TrainStopMaglevIndicator
+Monorail/Maglev halte
+TramDepot
+Tram remise
+VictorianStation
+Stationsgebouw in Victoriaanse stijl
+Vorplatz
+Stationsplein
+Windmill
+Windmolen\n\n
+#____________________________________citycar____________________________________
+#____________________________________citycar____________________________________
+Ambulanz
+Ambulance
+FordT
+T-Ford
+green_car
+groen auto
+Motorrad
+Motorfiets
+orange_bus
+Oranje bus
+Pickup
+Open Bestelwagen
+yellow_car
+gele auto
+#__________________________________dummy_info___________________________________
+#__________________________________dummy_info___________________________________
+#____________________________________factory____________________________________
+#____________________________________factory____________________________________
+2Raffinerie
+Raffinaderij (B.zine)
+3Raffinerie
+Raffinaderij (B+KS)
+Autohaus
+Auto dealer
+Autohersteller
+Autofabriek
+bakery
+Bakkerij
+brewery
+Brouwerij
+Buchgrosshandel
+Boekhandel
+cannery
+Conservenfabriek
+Cementmill
+Cementfabriek
+ChemicalPlant
+Chemische fabriek
+CHEMIST
+Drogist (door Seth)
+Concretefactory
+Betonfabriek
+cow_farm
+Veehouderij
+dairy
+Melkfabriek
+Druckerei
+Drukkerij
+Erzbergwerk
+IJzererts mijn
+fish_pond
+Visvijver
+fish_swarm
+Visgrond
+food_processing_plant
+Voedingsmiddelenfabriek
+grain_farm
+Graanboerderij
+grain_mill
+Graanmolen
+Incinerator
+Vuilverbrander
+Kohlegrube
+Kolenmijn
+Kohlekraftwerk
+Kolencentrale
+Materialswholesale
+Doe-Het-Zelf centrum
+Moebelfabrik
+Meubelfabriek
+Moebelhaus
+Meubelzaak
+Nutzwald
+Productiebos
+Oelbohrinsel
+Booreiland
+Oelfeld
+Olieveld
+Oelkraftwerk
+En. centrale/olie
+Oelpumpe
+Ja-knikker
+Papierfabrik
+Papierfabriek
+Pharmaceutics
+Pharmaceutische industrie
+Raffinerie
+Raffinaderij
+Saegewerk
+Houtzagerij
+Sandquarry
+Zandgroeve
+Stahlwerk
+Staalfabriek
+Stonequarry
+Steengroeve
+supermarket
+Supermarkt
+TANKE
+Benzinestation
+Windkraftwerk
+Windturbine
+#_____________________________________good______________________________________
+#_____________________________________good______________________________________
+Autos
+auto's
+beer
+bier
+Bretter
+planken
+Buecher
+Boeken
+canned_food
+conserven
+Cement
+cement
+Chemicals
+chemicalieën
+Concrete
+beton
+Eisenerz
+ijzererts
+fish
+vis
+flour
+meel
+food
+voedsel
+Gasoline
+benzine
+grain
+graan
+Holz
+hout
+Kohle
+kolen
+meat
+vlees
+Medicine
+Medicamenten
+milk
+melk
+Moebel
+meubels
+None
+Geen
+Oel
+olie
+Papier
+papier
+Passagiere
+Passagiers
+Plastik
+plastic
+PrintersInk
+Drukkerij inkt
+Sand
+zand
+Stahl
+Staal
+Stone
+Steen
+waste
+afval
+#__________________________________ground_obj___________________________________
+#__________________________________ground_obj___________________________________
+flowers
+Bloemen
+gooses
+ganzen
+Hochsitz1
+Hoogzit
+Hochsitz2
+Hoogzit
+#__________________________________pedestrian___________________________________
+#__________________________________pedestrian___________________________________
+Cyclist
+fietser
+pedestrian_1
+Voetganger
+pedestrian_2
+Voetganger
+pedestrian_3
+Voetganger
+pedestrian_4
+Voetganger
+pedestrian_child
+kind
+pedestrian_dog
+hond
+Woman
+vrouw
+#_________________________________program_text__________________________________
+#_________________________________program_text__________________________________
+CATEGORY_01
+stukgoederen
+CATEGORY_02
+Bulk goederen
+CATEGORY_03
+Olie/Benzine
+CATEGORY_04
+gekoelde waren
+CATEGORY_05
+vloeibaar voedsel
+CATEGORY_06
+Lange goederen
+#___________________________________roadsign____________________________________
+#___________________________________roadsign____________________________________
+choose_point
+richtingskeuze borden
+ChooseSignals
+Keuze seinen
+ChooseSignalsMonorail
+Keuze seinen
+Endofchoosetrack
+Einde keuzesein
+NoEntry
+Eenrichtingsbord
+preSignals
+Seinen voor twee blocks
+preSignalsMonorail
+Seinen voor twee blocks
+Signals
+Seinen
+SignalsMonorail
+Seinen
+traffic_light
+Stoplicht
+#_____________________________________tree______________________________________
+#_____________________________________tree______________________________________
+Pappel-1
+Populier\n
+Pappel-2
+Populier\n
+Shunter-tree2
+Loofboom\n
+Tanne_1
+Den\n
+Tanne_2
+Den\n
+Tanne_3
+Den\n
+Tanne_4
+Denneboom\n
+Tanne_5
+Denneboom\n
+Tanne_6
+Naaldboom\n
+Tree4
+Lariks\n
+Tree6
+Spar\n
+Willow
+Wilg\n
+#____________________________________tunnel_____________________________________
+#____________________________________tunnel_____________________________________
+FastRailTunnel
+Hogesnelheidstunnel
+FastRoadTunnel
+Autobaantunnel
+RailTunnel
+Spoorwegtunnel
+RoadTunnel
+Autotunnel
+#____________________________________vehicle____________________________________
+#____________________________________vehicle____________________________________
+0Ben103
+Bennhardt BR103 (electro)
+1Ben140
+Bennhardt B-140
+1Dampflokomotive
+H-Trans 0-4-0T
+1Diesellokomotive
+H-Trans Br212
+1Ellok
+H-Trans E1 Storm
+1Garrat
+RVg Garratt
+1TPEllok
+TPI F7A
+221A
+JC 221A (stoom)
+221A_tender
+JC 221A tender
+2Ben155
+Abro Br250
+2Diesellokomotive
+H-Trans Br218
+2Ellok
+H-Trans Tigress I
+3Ben185
+Abro Br185
+3Diesellokomotive
+H-Trans Br365
+707
+Boeing 707
+A3-5
+SBB A 3/5 (Zwitserland)
+A3-5_tender
+Tender voor SBB A 3/5
+A380
+Airbus A380
+Autotransportanhaenger
+H-Trans Auto oplegger
+Autotransporter
+H-Trans Autotransport
+Autotransportwagen
+Canonball Autotransporter
+Be5-7
+BLS Be 5/7
+Bretteranhaenger
+WF Ultd. Planken oplegger
+Brettertransporter
+WF Ultd. Planken vrachtwagen
+Bretterwagen
+VT Vienna Planken wagon
+Buchanhaenger
+Serj Boeken oplegger
+Buchtrailer
+Oplegger voor boeken I
+Buchtrailer2
+Oplegger voor boeken II
+Buchtransporter
+Serj/H-Trans Boeken vrachtwagen
+Buchwagen
+VT Vienna Boeken wagon
+Bus
+H-Trans Bus
+Cargosprinter-Front
+Cargosprinter
+Cargosprinter-Mittel
+Cargosprinter vrachtwagon
+Cargosprinter-Steuer
+Cargosprinter duwmachine
+Cementtrailer
+Oplegger voor cement
+Concept1Front
+Concept 1
+Concept1Mail
+Concept 1 post wagen
+Concept1Pass
+Concept 1 passagierswagon
+Concept1Rear
+Concept 1 achterstel
+Concept2Front
+Concept 2
+Concept2Mail
+Concept 2 post wagen
+Concept2Pass
+Concept 2 passagierswagon
+Cooling_Waggon
+Voedselwaggon met koeling
+DoubleDecker
+Dubbeldekker
+E44
+E44 Locomotief
+EnCo_Bulk_Ship
+Enco Bulkschip
+EnCo_Car_Ship
+Autotransportschip
+EnCo_Cement_Ship
+Cementschip
+EnCo_Container_Ship
+Containerschip
+EnCo_Oil_Ship
+Olietanker
+EnCo_Paper_Ship
+Papiertransportschip
+EnCo_Steel_Ship
+Staaltransportschip
+EnCo_Wood_Ship
+Houttransportschip
+Erzanhaenger
+H-Trans IJzererts aanhangwagen
+Erztrailer
+oplegger voor ijzererts
+Erztransporter
+H-Trans MK2 IJzererts vrachtwagen
+Erzwagen
+H-Trans ertswagen (30t)
+FastFerry
+O.Bang Passagiers Hovercraft
+Flachwagen
+Dieplader
+Fokker_F27
+Fokker F27
+FordZugmaschine
+Ford Trekker
+GarbageTruck
+Vuilnisauto
+Gelenkbus_Ende
+Scharnierbus
+Gelenkbus_Front
+Scharnierbus
+Godm_Spitz
+Passagiers-zeilschip
+Guppy
+Guppie-transportvliegtuig
+H-Trans-Pantheress
+H-Trans Pantheress
+H-Trans-Pantheress-Back
+H-Trans Pantheress (achter)
+H-Trans-Tiger-Car
+H-Trans Tigress passagier wagon
+H-Trans-Tiger-Mail-Car
+H-Trans Tigress post wagon
+H-Trans-Tigress-II-Front
+H-Trans Tigress-II
+Heavy_ore_truck
+Zware vrachtwagen voor erts
+Holzanhaenger
+JET Hout oplegger
+Holztrailer
+Oplegger voor hout
+Holztransporter
+H-Trans Hout vrachtwagen
+Holzwagen
+H-Trans Hout wagon
+Horsebookscariage
+Paarden Boeken kar
+Horsemailcariage
+Paarden Postwagen
+Horsepapercariage
+Paarden Papier kar
+Horsepassengerscariage
+Paarden Passagiers kar
+Horses
+Paarden
+Horsewoodcariage
+Paarden Hout kar
+HVPosttransporter
+DIBU/H-Trans Post wagen
+ICE_TD-back
+ICE-TD wagon (achter)
+ICE_TD-car
+ICE-TD wagon 
+ICE_TD-front
+ICE-TD wagon (voor)
+IL-76
+IL-76 Postvliegtuig
+JNR_C11
+JNR C11 (2-6-4T)
+JR_9600
+JR 9600
+JumboJet
+Boeing 747 "Jumbo Jet"
+Kohleanhaenger
+H-Trans Kolen oplegger
+Kohletransporter
+H-Trans Kolen vrachtwagen
+Kohlewagen
+Canonball & H-Trans Kolenwagon
+Kunststofanhaenger
+H-Trans Kunststof oplegger
+Kunststofftransporter
+H-Trans Kunststof vrachtwagen
+Lockhead_Tristar
+Lockheed Tristar
+Moebelschiff
+RX Meubelschip
+Moebelwagen
+VT Vienna Meubel wagon
+NeuOelwagen
+Olie wagon (80t)
+Oelanhaenger
+H-Trans Olietank oplegger
+Oelwagen
+VT Vienna Olie tanker
+Oiltrailer
+Oplegger voor olie
+OldOil
+Olie wagon (18t)
+Papieranhaenger
+Trikky Papier oplegger
+Papiertransporter
+Trikky Papier vrachtwagen
+Papierwagen
+VT Vienna Papier wagon
+Passagierwagen
+H-Trans Passagierswagon
+Pferdebahn
+Paardentram
+Postschiff
+RX Postschip
+Posttransporter
+H-Trans Post vrachtwagen
+Postwagen
+H-Trans Post/Baggage wagon
+PrPersonenwagen
+Passagier wagon I
+PrPostwagen
+Post wagon I
+RenaultTH5
+Renault TH5 trekker
+Sandanhaenger
+WF Ultd. zand aanhanger
+Sandtransporter
+WF Ultd. Zand vrachtwagen
+schooner
+Schoener
+SD40-2-back
+SD40-2 achterstel
+SD40-2-front
+SD40-2
+SlowFerry
+H-Trans Passagiers schip
+Stahlanhaenger
+H-Trans Staal aanhanger
+Stahltransporter
+H-Trans Staal vrachtwagen
+Stahlwagen
+VT Vienna Staal wagon
+Staubkesselwagen
+VT Vienna Kunststof wagon
+Steamer
+Stoomboot
+Stoneanhaenger
+WF Ultd. Steen aanhanger
+Stonetransporter
+WF Ultd. Steen vrachtwagen
+SuperConstellation
+Super Constellation
+T13
+Bernhard T13
+T24
+Bernhard T24
+Tanklastzug
+H-Trans Olie tankwagen
+Tatra-T4
+Tatra T4
+Tatra-T4_Wagon
+Tatra T4 wagon
+TB13
+Bernhard TB13
+TB24
+Bernhard TB24
+teaclipper
+Theeklipper
+TPBeiwagen
+TPI VT98 Passagierswagon
+TPPassagierwagen
+TPI Lopomo Passagierswagon
+TPSchienenbus
+TPI VT98 (diesel)
+Tram_GT6_Ende
+Tram GT6 eindstel
+Tram_GT6_Kopf
+Tram GT6 (elektrisch)
+Trike
+Driewieler (bulk)
+Tugboat
+Sleepboot
+VolvoFH12
+Volvo FH12 trekker
+XMail
+X prototype mailwagon
+XTest
+X prototype passagierstrein
+#______________________________________way______________________________________
+#______________________________________way______________________________________
+asphalt_road
+Asfaltstraat
+city_road
+Weg binnen de bebouwde kom
+cobblestone_road
+Klinkerweg
+concrete_sleeper_track
+Spoorrails op betonliggers
+dirt_road
+Onverharde weg
+elevated_monorail
+Verhoogde monorail
+gavel_road
+Gravelweg
+Kanal
+Kanaal
+Powerline
+Hoogspanningsleiding
+Rillenschienen
+tramrails
+runway_grass
+Startbaan (gras)
+runway_modern
+moderne startbaan
+sand_track
+Rails op een ondergrond van zand
+steel_sleeper_track
+Spoorrails op stalen liggers
+taxiway
+Taxibaan
+wooden_sleeper_track
+Spoorrails op bielzen
+#__________________________________way-object___________________________________
+#__________________________________way-object___________________________________
+HighSpeedOverheadpower
+Bovenleiding (hoge snelheid)
+SlowOverheadpower
+Bovenleiding (max 120 km/h)
