@@ -1,0 +1,108 @@
+#-------------------------------------------------------------------------------
+#  Hanshin_7801_7901_2_2.dat
+#  阪神電気鉄道 7801・7901形(2次車:冷房改造車)
+#
+#  ご自由にお使いください。
+#  CopyLeft 555
+#-------------------------------------------------------------------------------
+obj=vehicle
+name=Hanshin Mc_7801(type2:front)
+copyright=555
+waytype=electrified_track
+freight=Passagiere
+speed=110
+payload=140
+cost=1700000
+weight=36
+power=440
+gear=150
+runningcost=210
+sound=2
+intro_year=1975
+intro_month=9
+retire_year=2008
+retire_month=7
+Constraint[Next][0]=Hanshin T_7901(type2:front)
+EmptyImage[S]=Hanshin_7801_7901_2_2.0.0
+EmptyImage[E]=Hanshin_7801_7901_2_2.0.1
+EmptyImage[SE]=Hanshin_7801_7901_2_2.0.2
+EmptyImage[SW]=Hanshin_7801_7901_2_2.0.3
+EmptyImage[N]=Hanshin_7801_7901_2_2.0.4
+EmptyImage[W]=Hanshin_7801_7901_2_2.0.5
+EmptyImage[NW]=Hanshin_7801_7901_2_2.0.6
+EmptyImage[NE]=Hanshin_7801_7901_2_2.0.7
+-------------------------------------------------------------------------------
+obj=vehicle
+name=Hanshin T_7901(type2:front)
+copyright=555
+waytype=electrified_track
+freight=Passagiere
+speed=110
+payload=150
+cost=1500000
+weight=30
+runningcost=180
+intro_year=1975
+intro_month=9
+retire_year=2008
+retire_month=7
+Constraint[Prev][0]=Hanshin Mc_7801(type2:front)
+EmptyImage[S]=Hanshin_7801_7901_2_2.1.0
+EmptyImage[E]=Hanshin_7801_7901_2_2.1.1
+EmptyImage[SE]=Hanshin_7801_7901_2_2.1.2
+EmptyImage[SW]=Hanshin_7801_7901_2_2.1.3
+EmptyImage[N]=Hanshin_7801_7901_2_2.1.4
+EmptyImage[W]=Hanshin_7801_7901_2_2.1.5
+EmptyImage[NW]=Hanshin_7801_7901_2_2.1.6
+EmptyImage[NE]=Hanshin_7801_7901_2_2.1.7
+-------------------------------------------------------------------------------
+obj=vehicle
+name=Hanshin T_7901(type2:back)
+copyright=555
+waytype=electrified_track
+freight=Passagiere
+speed=110
+payload=150
+cost=1500000
+weight=30
+runningcost=180
+intro_year=1975
+intro_month=9
+retire_year=2008
+retire_month=3
+Constraint[Next][0]=Hanshin Mc_7801(type2:back)
+EmptyImage[S]=Hanshin_7801_7901_2_2.1.0
+EmptyImage[E]=Hanshin_7801_7901_2_2.1.1
+EmptyImage[SE]=Hanshin_7801_7901_2_2.1.2
+EmptyImage[SW]=Hanshin_7801_7901_2_2.1.3
+EmptyImage[N]=Hanshin_7801_7901_2_2.1.4
+EmptyImage[W]=Hanshin_7801_7901_2_2.1.5
+EmptyImage[NW]=Hanshin_7801_7901_2_2.1.6
+EmptyImage[NE]=Hanshin_7801_7901_2_2.1.7
+-------------------------------------------------------------------------------
+obj=vehicle
+name=Hanshin Mc_7801(type2:back)
+copyright=555
+waytype=electrified_track
+freight=Passagiere
+speed=110
+payload=140
+cost=1700000
+weight=36
+power=440
+gear=150
+runningcost=210
+intro_year=1975
+intro_month=9
+retire_year=2008
+retire_month=3
+Constraint[Prev][0]=Hanshin T_7901(type2:back)
+EmptyImage[S]=Hanshin_7801_7901_2_2.2.0
+EmptyImage[E]=Hanshin_7801_7901_2_2.2.1
+EmptyImage[SE]=Hanshin_7801_7901_2_2.2.2
+EmptyImage[SW]=Hanshin_7801_7901_2_2.2.3
+EmptyImage[N]=Hanshin_7801_7901_2_2.2.4
+EmptyImage[W]=Hanshin_7801_7901_2_2.2.5
+EmptyImage[NW]=Hanshin_7801_7901_2_2.2.6
+EmptyImage[NE]=Hanshin_7801_7901_2_2.2.7
+-------------------------------------------------------------------------------

@@ -1,0 +1,60 @@
+#-------------------------------------------------------------------------------
+#  Hanshin_5101_5201_2.dat
+#  阪神電気鉄道 5201形セミステンレス試作車(ジェットシルバー)
+#
+#  ご自由にお使いください。
+#  CopyLeft 555
+#-------------------------------------------------------------------------------
+obj=vehicle
+name=Hanshin Mc_5201(Jet Silver)
+copyright=555
+waytype=electrified_track
+freight=Passagiere
+speed=110
+payload=140
+cost=2300000
+weight=34
+power=300
+gear=220
+runningcost=380
+sound=2
+intro_year=1959
+intro_month=10
+retire_year=1977
+retire_month=3
+Constraint[Next][0]=Hanshin Mc_5202(Jet Silver)
+EmptyImage[S]=Hanshin_5101_5201_2.0.0
+EmptyImage[E]=Hanshin_5101_5201_2.0.1
+EmptyImage[SE]=Hanshin_5101_5201_2.0.2
+EmptyImage[SW]=Hanshin_5101_5201_2.0.3
+EmptyImage[N]=Hanshin_5101_5201_2.0.4
+EmptyImage[W]=Hanshin_5101_5201_2.0.5
+EmptyImage[NW]=Hanshin_5101_5201_2.0.6
+EmptyImage[NE]=Hanshin_5101_5201_2.0.7
+-------------------------------------------------------------------------------
+obj=vehicle
+name=Hanshin Mc_5202(Jet Silver)
+copyright=555
+waytype=electrified_track
+freight=Passagiere
+speed=110
+payload=140
+cost=2300000
+weight=34
+power=300
+gear=220
+runningcost=380
+intro_year=1959
+intro_month=10
+retire_year=1977
+retire_month=3
+Constraint[Prev][0]=Hanshin Mc_5201(Jet Silver)
+EmptyImage[S]=Hanshin_5101_5201_2.1.0
+EmptyImage[E]=Hanshin_5101_5201_2.1.1
+EmptyImage[SE]=Hanshin_5101_5201_2.1.2
+EmptyImage[SW]=Hanshin_5101_5201_2.1.3
+EmptyImage[N]=Hanshin_5101_5201_2.1.4
+EmptyImage[W]=Hanshin_5101_5201_2.1.5
+EmptyImage[NW]=Hanshin_5101_5201_2.1.6
+EmptyImage[NE]=Hanshin_5101_5201_2.1.7
+-------------------------------------------------------------------------------
